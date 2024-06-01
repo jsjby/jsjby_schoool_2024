@@ -36,8 +36,6 @@
 
 【报名截止：N/A】 [智能产业研究院](https://mp.weixin.qq.com/s/sHhcErP2b-aKcBNsRHugWg)
 
-> 是否有招生名额请联系老师
-
 ~~【报名截止：4.10 12:00】 [统计学研究中心](http://www.stat.tsinghua.edu.cn/hot-news/%e3%80%90%e5%a4%8f%e4%bb%a4%e8%90%a5%e3%80%912024%e5%b9%b4%e4%bc%98%e7%a7%80%e5%a4%a7%e5%ad%a6%e7%94%9f%e7%bb%9f%e8%ae%a1%e4%b8%8e%e6%95%b0%e6%8d%ae%e7%a7%91%e5%ad%a6%e4%ba%a4%e6%b5%81%e4%bc%9a/)~~
 
 ~~【报名截止：5.15 23:59】 [人工智能学院](https://admission.iiis.tsinghua.edu.cn/index-ai.php)~~
@@ -97,7 +95,6 @@
 【报名截止：6.16】 [密西根学院](https://mp.weixin.qq.com/s/Y-CGIQ_nB7f5qxhFAvrMCg)
 
 【报名截止：6.20】 [电子信息与电气工程学院](https://www.seiee.sjtu.edu.cn/via/yjspy_zsgz_sszs/10117.html)
-> 2025级电院研究生“优秀生源”活动面向校内外学生选拔，具体依托电气工程系、自动化系、计算机科学与工程系、集成电路学院（电子工程系和微纳电子学系）、感知科学与工程学院、软件学院、网络空间安全学院等单位开展，涵盖电院全部研究生专业（含联培基地、工程硕博士培养改革专项注1、集成电路专项注2），具体以当年招生政策为准。
 
 ## 上海人工智能实验室（浦江实验室PJLAB）
 
