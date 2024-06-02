@@ -24,6 +24,8 @@
 
 【报名截止：6.16】 [深圳国际研究生院数据与信息研究院集成电路与系统](https://www.sigs.tsinghua.edu.cn/2024/0524/c120a94577/page.htm)
 
+【报名截止：6.16 17:00】 [生物医学工程](https://mp.weixin.qq.com/s/lAjIYbjMbJK3N3pq9YBaQQ)
+
 【报名截止：6.15】[神经调控国家工程研究中心](https://mp.weixin.qq.com/s/78ncrcyXagVrPs8whesZiw)
 
 【报名截止：6.14】 [深圳国际研究生院数据与信息研究院人工智能项目](https://www.sigs.tsinghua.edu.cn/2024/0520/c120a94481/page.htm)
@@ -134,6 +136,8 @@
 
 > [南京大学夏令营信息](https://grawww.nju.edu.cn/64/88/c905a681096/page.htm)
 
+【报名截止：7.15】[匡亚明学院](https://dii.nju.edu.cn/89/f5/c11317a690677/page.htm)
+
 【报名截止：6.20】[软件学院](https://software.nju.edu.cn//tzgg/20240528/i267245.html)
 
 【报名截止：6.20】[智能软件与工程学院](https://ise.nju.edu.cn/info/1018/1841.htm)
@@ -156,7 +160,7 @@
 
 【报名截止：6.13 17:00】[智能科学与技术学院](https://is.nju.edu.cn/7c/5f/c57162a687199/page.htm)
 
-【报名截止：6.2】[人工智能学院](https://ai.nju.edu.cn/6d/dc/c53055a683484/page.htm)
+~~【报名截止：6.2】[人工智能学院](https://ai.nju.edu.cn/6d/dc/c53055a683484/page.htm)~~
 
 
 ~~【报名截止：5.25】[软件所本科生开放日招生说明](https://ics.nju.edu.cn/recruit/index.html)~~
@@ -323,6 +327,8 @@
 
 ## 吉林大学
 
+【报名截止：6.20 12：00】[人工智能学院](http://sai.jlu.edu.cn/info/1065/4700.htm)
+
 【报名截止：6.10 8：00】[软件学院](https://csw.jlu.edu.cn/info/1156/7193.htm)
 
 【报名截止：6.10】[生物与农业工程学院](https://cbae.jlu.edu.cn/info/1076/10153.htm)
@@ -377,6 +383,8 @@
 
 【报名截止：N/A】[中科大 MIRA Lab 保研招生简章](https://miralab.ai/admission/admission_2024/)
 
+【报名截止：6.30】[火灾科学国家重点实验室](https://xly.ustc.edu.cn/news.php?newsid=1010)
+
 【报名截止：6.30】[网络空间与信息安全夏令营（网络空间安全学院）](https://xly.ustc.edu.cn/news.php?newsid=987)
 
 【报名截止：6.30】[苏州高等研究院夏令营](https://sz.ustc.edu.cn/cn_mobile/xwgg_show/1574.html)
@@ -398,6 +406,8 @@
 【报名截止：暂无】[国家授时中心](https://mp.weixin.qq.com/s/hff4Sx3VGWW2Z89oCYr-ig)
 
 【报名截止：暂无】[微小卫星创新研究院](https://mp.weixin.qq.com/s/up6icXQZgv_NV1Yzr_Rlqg)
+
+【报名截止：8.5】[空间应用工程与技术中心](https://mp.weixin.qq.com/s/4Fs6y3gtXhupCJsHqIVW1Q)
 
 【报名截止：7.1】[微电子研究所](http://www.ime.cas.cn/kjrh/tzggkjrh/202405/t20240522_7168020.html)
 
@@ -501,7 +511,7 @@
 
 ## 昌平实验室
 
-【报名截止：6.1】[昌平实验室](https://www.cpl.ac.cn/join_us/education/4028c1f18ec4727b018ec733a2ee0005.shtml)
+~~【报名截止：6.1】[昌平实验室](https://www.cpl.ac.cn/join_us/education/4028c1f18ec4727b018ec733a2ee0005.shtml)~~
 
 ## 深圳医学科学院
 
