@@ -215,13 +215,21 @@
 
 ## 南开大学
 
+【报名截止：6.26】[人工智能学院](https://ai.nankai.edu.cn/info/1024/5850.htm)
+
 【报名截止：6.12】[电子信息与光学工程学院](https://ceo.nankai.edu.cn/info/1099/4101.htm)
 
 ## 天津大学
 
+> [天津大学夏令营信息](https://yzb.tju.edu.cn/xwzx/zxxx/202406/t20240605_323809.htm)
+
 【报名截止：6.25】[新媒体与传播学院](http://snmc.tju.edu.cn/info/1120/2163.htm)
 
 【报名截止：6.19】[佐治亚理工深圳学院](https://www.gtsi.edu.cn/node/4325)
+
+【报名截止：6.19】[智能与计算学部](http://cic.tju.edu.cn/info/1041/4968.htm)
+
+【报名截止：6.19】[微电子学院](https://sme.tju.edu.cn/info/1099/2916.htm)
 
 【报名截止：6.19】[海洋科学与技术学院](https://marine.tju.edu.cn/info/1036/3585.htm)
 
@@ -277,6 +285,8 @@
 
 【报名截止：7.1】[前沿科学技术研究院](https://fist.xjtu.edu.cn/info/1013/4052.htm)
 
+【报名截止：6.26】[国家储能平台（中心）](https://gjcnpt.xjtu.edu.cn/info/1058/1792.htm)
+
 【报名截止：6.25】[软件学院](http://se.xjtu.edu.cn/info/1043/2679.htm)
 
 【报名截止：6.20】[人居环境与建筑工程学院](https://hsce.xjtu.edu.cn/info/1014/12698.htm)
@@ -289,7 +299,7 @@
 
 【报名截止：6.10】[计算机科学与技术学院](http://www.cs.xjtu.edu.cn/info/1233/3380.htm)
 
-【报名截止：6.5】[电子科学与工程学院](http://esteie.xjtu.edu.cn/info/1051/2763.htm)
+~~【报名截止：6.5】[电子科学与工程学院](http://esteie.xjtu.edu.cn/info/1051/2763.htm)~~
 
 ## 同济大学
 
@@ -329,9 +339,13 @@
 
 ## 电子科技大学
 
+> [电子科技大学夏令营信息](https://yz.uestc.edu.cn/info/1064/5074.htm)
+
 【报名截止：6.24】[信息与软件工程学院](https://sise.uestc.edu.cn/info/1026/12435.htm)
 
 【报名截止：6.20】[基础与前沿研究院](https://www.iffs.uestc.edu.cn/info/1049/4761.htm)
+
+【报名截止：6.20】[光电科学与工程学院](https://sose.uestc.edu.cn/info/1075/13998.htm)
 
 ## 中山大学
 
@@ -391,6 +405,8 @@
 
 > [关于举办“中南大学2024年优秀大学生暑期夏令营”活动的通知](https://mp.weixin.qq.com/s/L7whd7YB2zBFzVaIbF9XEg)
 
+【报名截止：6.12】[计算机学院](https://cse.csu.edu.cn/info/1040/9622.htm)  
+
 【报名截止：6.12】[大数据研究院](https://bdi.csu.edu.cn/info/1063/3325.htm)  
 
 【报名截止：6.12】[资源加工与生物工程学院](https://mpb.csu.edu.cn/info/1139/3279.htm)  
@@ -415,6 +431,7 @@
 
 ## 中国科学技术大学
 > [中国科学技术大学夏令营信息](https://xly.ustc.edu.cn/news.php?newsid=981)
+
 > [中国科学技术大学 “优秀大学生夏令营”活动通知](https://xly.ustc.edu.cn/news.php?newsid=981)
 
 【报名截止：N/A】[量子物理和量子信息研究团队保研招生简章](https://quantum.ustc.edu.cn/web/index.php/node/762)
@@ -424,6 +441,8 @@
 【报名截止：N/A】[电子工程与信息科学系2024年研招夏令营公告](https://eeis.ustc.edu.cn/2024/0603/c2702a642819/page.htm)
 
 【报名截止：N/A】[中科大 MIRA Lab 保研招生简章](https://miralab.ai/admission/admission_2024/)
+
+【报名截止：6.30】[人工智能与数据科学](http://m.xly.ustc.edu.cn/news.php?newsid=1023)
 
 【报名截止：6.30】[信息科学技术学院](https://m.xly.ustc.edu.cn/news.php?newsid=1013)
 
@@ -551,6 +570,10 @@
 
 【报名截止：6.23】[信息科学与技术学院](https://sist.shanghaitech.edu.cn/2024/0513/c7339a1096341/page.htm)
 
+## 上海理工大学
+
+【报名截止：6.30】[交通运输工程](https://mp.weixin.qq.com/s/etc9OjlMpdJf3fKnq_EHBQ)
+
 ## 北京语言大学
 
 > [北京语言大学夏令营信息](https://yjsy.blcu.edu.cn/art/2024/5/17/art_13223_1170150.html)
@@ -595,7 +618,7 @@
 
 ## 河南工业大学
 
-【报名截止：6.5】[复杂性科学中心](https://cs.haut.edu.cn/info/1421/5974.htm)
+~~【报名截止：6.5】[复杂性科学中心](https://cs.haut.edu.cn/info/1421/5974.htm)~~
 
 ## 南京师范大学
 
@@ -604,6 +627,10 @@
 【报名截止：6.15】[计算机与电子信息学院/人工智能学院](http://ceai.njnu.edu.cn/Item/Show.asp?m=1&d=19264)
 
 【报名截止：6.15】[南瑞电气与自动化学院](https://eae.njnu.edu.cn/info/1044/5723.htm)
+
+## 江南大学
+
+> [江南大学夏令营信息](https://yz.jiangnan.edu.cn/info/1012/3460.htm)
 
 ## 华中农业大学
 
