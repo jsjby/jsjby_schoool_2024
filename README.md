@@ -108,6 +108,8 @@
 
 【报名截止：6.20】[南加州大学文化创意产业学院](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)
 
+【报名截止：6.20】[电子信息与电气工程学院](https://www.seiee.sjtu.edu.cn/yjspy_zsgz_bszs/10188.html)
+
 【报名截止：6.20】[船舶海洋与建筑工程学院](https://naoce.sjtu.edu.cn/bsznyjszsgz/13689.html)
 
 【报名截止：6.16】 [密西根学院](https://mp.weixin.qq.com/s/Y-CGIQ_nB7f5qxhFAvrMCg)
@@ -161,7 +163,6 @@
 【报名截止：6.13 17:00】[智能科学与技术学院](https://is.nju.edu.cn/7c/5f/c57162a687199/page.htm)
 
 ~~【报名截止：6.2】[人工智能学院](https://ai.nju.edu.cn/6d/dc/c53055a683484/page.htm)~~
-
 
 ~~【报名截止：5.25】[软件所本科生开放日招生说明](https://ics.nju.edu.cn/recruit/index.html)~~
 
@@ -227,6 +228,8 @@
 
 【报名截止：6.19】[佐治亚理工深圳学院](https://www.gtsi.edu.cn/node/4325)
 
+【报名截止：6.19】[医学院](https://mctu.tju.edu.cn/info/1061/3485.htm)
+
 【报名截止：6.19】[智能与计算学部](http://cic.tju.edu.cn/info/1041/4968.htm)
 
 【报名截止：6.19】[微电子学院](https://sme.tju.edu.cn/info/1099/2916.htm)
@@ -248,6 +251,8 @@
 ## 中国人民大学
 
 【报名截止：N/A】[高瓴人工智能学院AI-Engine实验室](https://mp.weixin.qq.com/s/0BFY6nHouLgSGd5cOizIIg)
+
+【报名截止：6.23】[统计与大数据研究院 ](http://isbd.ruc.edu.cn/xwgg/tzggAnnouncement/57062ca23b8f42d8a737b23e99a8b99a.htm)
 
 【报名截止：6.13】[高瓴人工智能学院](http://ai.ruc.edu.cn/newslist/notice/20240603001.html)
 
@@ -409,6 +414,8 @@
 
 【报名截止：6.12】[大数据研究院](https://bdi.csu.edu.cn/info/1063/3325.htm)  
 
+【报名截止：6.12】[电子信息学院](https://ei.csu.edu.cn/info/1085/1549.htm)  
+
 【报名截止：6.12】[资源加工与生物工程学院](https://mpb.csu.edu.cn/info/1139/3279.htm)  
 
 ## 湖南大学
@@ -424,6 +431,10 @@
 【报名截止：6.14】[机器人学院](http://robotics.hnu.edu.cn/info/1074/2648.htm)  
 
 【报名截止：6.14】[物理与微电子学院](https://spe.hnu.edu.cn/info/1083/8776.htm)  
+
+## 中国农业大学
+
+【报名截止：6.23】[动物科学技术学院](https://cast1.cau.edu.cn/art/2024/6/5/art_44406_1027495.html)
 
 ## 兰州大学
 
@@ -487,6 +498,8 @@
 【报名截止：6.30】[苏州医工所](https://sibet.cas.cn/yjsjy2020/zsxx_169599/202405/t20240530_7176473.html)
 
 【报名截止：6.30】[深圳先进技术研究院](https://siat.cas.cn/yjsjy2016/zsjs2016/202405/t20240527_7173055.html)
+
+【报名截止：6.30】[深圳先进技术研究院数字所](https://szs.siat.ac.cn/#/detail?item=%5Bobject%20Object%5D&list=false&contentId=1509)
 
 【报名截止：6.30】[沈阳自动化研究所](http://www.sia.cas.cn/zpjy/yjsjy/zs/zsgg/202405/t20240531_7176928.html)
 
