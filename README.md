@@ -118,7 +118,7 @@
 
 【报名截止：6.14】 [海洋学院 ](https://soo.sjtu.edu.cn/zsNotces/6396.html)
 
-【报名截止：6.8】 [人工智能学院](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)
+~~【报名截止：6.8】 [人工智能学院](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)~~
 
 ## 上海人工智能实验室（浦江实验室PJLAB）
 
@@ -364,11 +364,17 @@
 
 ## 中山大学
 
+【报名截止：6.26】[航空航天学院](https://saa.sysu.edu.cn/article/645?nPc3zErtSS1t=1717856839779)
+
+【报名截止：6.26】[海洋工程与技术学院](https://mp.weixin.qq.com/s/BQU-RDnUpRsP8L6AfD39CQ)
+
+【报名截止：6.25】[计算机学院](https://cse.sysu.edu.cn/content/7106?nPc3zErtSS1t=1717856851023)
+
+【报名截止：6.24】[人工智能学院](https://sai.sysu.edu.cn/notice/1415979.htm?nPc3zErtSS1t=1717081997865)
+
 【报名截止：6.23】[微电子科学与技术学院](https://mst.sysu.edu.cn/article/997)
 
 【报名截止：6.23】[电子与信息工程学院（微电子学院）](https://seit.sysu.edu.cn/article/2594)
-
-【报名截止：6.24】[人工智能学院](https://sai.sysu.edu.cn/notice/1415979.htm)
 
 【报名截止：6.21】[网络空间安全学院](https://scst.sysu.edu.cn/rc/rc02/1416009.htm)
 
@@ -409,6 +415,8 @@
 【报名截止：6.10】[统计学院](https://stat.ecnu.edu.cn/14/73/c9708a595059/page.htm)
 
 ## 山东大学
+
+【报名截止：N/A】[空间科学与物理学院](https://apd.wh.sdu.edu.cn/info/1334/16330.htm)
 
 【报名截止：6.30】[机电与信息工程学院](https://ie.wh.sdu.edu.cn/info/1007/14342.htm)
 
@@ -545,6 +553,8 @@
 
 【报名截止：6.25】[海洋研究所](http://www.qdio.ac.cn/yjs/yjsnotice/202405/t20240524_786258.html)
 
+【报名截止：6.25】[国家空间科学中心](https://www.ucas.edu.cn/tz/c0493e15dd2446b88f5c8f8bf447f021.htm)
+
 【报名截止：6.24】[声学研究所东海研究站](https://mp.weixin.qq.com/s/RGtbxai-mKKeOwtVJLiUTg)
 
 【报名截止：6.23】[遗传与发育生物学研究所](https://genetics.cas.cn/edu/zsxx/xlytms/202405/t20240511_7158069.html)
@@ -680,6 +690,10 @@
 ## 江南大学
 
 > [江南大学夏令营信息](https://yz.jiangnan.edu.cn/info/1012/3460.htm)
+
+## 华中师范大学
+
+【报名截止：6.23】[人工智能教育学部](https://foaie.ccnu.edu.cn/info/1008/7070.htm)
 
 ## 华中农业大学
 
