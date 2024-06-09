@@ -210,6 +210,8 @@
 
 【报名截止：6.23】[测绘遥感信息工程国家重点实验室](https://liesmars.whu.edu.cn/info/1058/16203.htm)
 
+【报名截止：6.21】[测绘学院](http://main.sgg.whu.edu.cn/info/1380/37801.htm)
+
 【报名截止：6.18】[信息管理学院](https://sim.whu.edu.cn/info/1776/97752.htm)
 
 【报名截止：6.17】[电子信息学院](https://mp.weixin.qq.com/s/GmNPODHXd995nWpQbAv0sQ)
@@ -363,6 +365,8 @@
 【报名截止：6.20】[光电科学与工程学院](https://sose.uestc.edu.cn/info/1075/13998.htm)
 
 ## 中山大学
+
+【报名截止：7.1】[软件工程学院](https://sse.sysu.edu.cn/article/723?nPc3zErtSS1t=1717943608620)
 
 【报名截止：6.26】[航空航天学院](https://saa.sysu.edu.cn/article/645?nPc3zErtSS1t=1717856839779)
 
@@ -669,7 +673,7 @@
 
 ## 西南大学
 
-【报名截止：6.9】[心理学与脑科学](http://psy.swu.edu.cn/info/1085/3736.htm)
+~~【报名截止：6.9】[心理学与脑科学](http://psy.swu.edu.cn/info/1085/3736.htm)~~
 
 ## 安徽大学
 
