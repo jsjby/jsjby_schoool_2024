@@ -36,9 +36,9 @@
 
 【报名截止：6.11】 [深圳国际研究生院生物医药与健康工程研究院](https://mp.weixin.qq.com/s?__biz=MzkxNTIyMTY2OQ==&mid=2247495446&idx=1&sn=9bd1b954069a08e01571021748db46af&chksm=c160d2dcf6175bca3eab99f2053340c5961125f62eeb517af00aa85406e621e08f3d11d5971f&scene=21#wechat_redirect)
 
-【报名截止：6.10】[集成电路学院](https://www.ime.tsinghua.edu.cn/info/1086/1885.htm)
+~~【报名截止：6.10】[集成电路学院](https://www.ime.tsinghua.edu.cn/info/1086/1885.htm)~~
 
-【报名截止：6.10】[化学工程系](https://www.chemeng.tsinghua.edu.cn/info/1038/3862.htm)
+~~【报名截止：6.10】[化学工程系](https://www.chemeng.tsinghua.edu.cn/info/1038/3862.htm)~~
 
 ~~【报名截止：6.7】[车辆与运载学院](http://www.svm.tsinghua.edu.cn/essay/5/2095.html)~~
 
@@ -82,11 +82,11 @@
 
 【报名截止：6.12】[软件与微电子学院](https://www.ss.pku.edu.cn/admission/admnotice/4574.html)
 
-【报名截止：6.10 8:30】[工学院](https://www.coe.pku.edu.cn/graduate/notice/12781.html)
-
 【报名截止：6.11】[集成电路学院](https://ic.pku.edu.cn/rcpy/yjszs/adaf04020bfb49b7951e096515d76a58.htm)
 
 【报名截止：6.11】[前沿交叉学科研究院](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=1754)
+
+~~【报名截止：6.10 8:30】[工学院](https://www.coe.pku.edu.cn/graduate/notice/12781.html)~~
 
 ~~【报名截止：6.4】[电子学院](https://ele.pku.edu.cn/info/1063/3071.htm)~~
 
@@ -158,9 +158,9 @@
 
 【报名截止：6.14】[电子科学与工程学院](https://ese.nju.edu.cn/75/bb/c22673a685499/page.htm)
 
-【报名截止：6.11】[地球科学与工程学院](https://mp.weixin.qq.com/s/LxXbsZ-HvRLiOjsGv8ZZIA)
-
 【报名截止：6.13 17:00】[智能科学与技术学院](https://is.nju.edu.cn/7c/5f/c57162a687199/page.htm)
+
+【报名截止：6.11】[地球科学与工程学院](https://mp.weixin.qq.com/s/LxXbsZ-HvRLiOjsGv8ZZIA)
 
 ~~【报名截止：6.2】[人工智能学院](https://ai.nju.edu.cn/6d/dc/c53055a683484/page.htm)~~
 
@@ -200,7 +200,7 @@
 
 【报名截止：6.15】[生物系统工程与食品科学学院](http://www.caefs.zju.edu.cn/2024/0528/c68774a2924166/page.htm)
 
-【报名截止：6.10】[生物医学工程与仪器科学学院](http://www.cbeis.zju.edu.cn/2024/0521/c63837a2920257/page.htm)
+~~【报名截止：6.10】[生物医学工程与仪器科学学院](http://www.cbeis.zju.edu.cn/2024/0521/c63837a2920257/page.htm)~~
 
 ~~【报名截止：6.3】[脑科学与脑医学学院](http://www.neuroscience.zju.edu.cn/2024/0416/c75666a2902185/page.htm)~~
 
@@ -308,9 +308,9 @@
 
 【报名截止：6.12】[微电子学院](https://ele.xjtu.edu.cn/info/1013/2391.htm)
 
-【报名截止：6.10】[自动化学院](https://automation.xjtu.edu.cn/info/1009/2091.htm)
+~~【报名截止：6.10】[自动化学院](https://automation.xjtu.edu.cn/info/1009/2091.htm)~~
 
-【报名截止：6.10】[计算机科学与技术学院](http://www.cs.xjtu.edu.cn/info/1233/3380.htm)
+~~【报名截止：6.10】[计算机科学与技术学院](http://www.cs.xjtu.edu.cn/info/1233/3380.htm)~~
 
 ~~【报名截止：6.5】[电子科学与工程学院](http://esteie.xjtu.edu.cn/info/1051/2763.htm)~~
 
@@ -324,9 +324,9 @@
 
 【报名截止：6.17】[设计创意学院](https://tjdi.tongji.edu.cn/NewsDetail.do?ID=5619&lang=)
 
-【报名截止：6.11】[软件学院](https://sse.tongji.edu.cn/info/1132/5077.htm)
-
 【报名截止：6.15】[交通研究院](https://umi.tongji.edu.cn/info/1076/1957.htm)
+
+【报名截止：6.11】[软件学院](https://sse.tongji.edu.cn/info/1132/5077.htm)
 
 ~~【报名截止：6.7 12:00】[电子与信息工程学院](https://see.tongji.edu.cn/info/1147/12581.htm)~~
 
@@ -396,9 +396,9 @@
 
 【报名截止：6.20 12：00】[人工智能学院](http://sai.jlu.edu.cn/info/1065/4700.htm)
 
-【报名截止：6.10 8：00】[软件学院](https://csw.jlu.edu.cn/info/1156/7193.htm)
+~~【报名截止：6.10 8：00】[软件学院](https://csw.jlu.edu.cn/info/1156/7193.htm)~~
 
-【报名截止：6.10】[生物与农业工程学院](https://cbae.jlu.edu.cn/info/1076/10153.htm)
+~~【报名截止：6.10】[生物与农业工程学院](https://cbae.jlu.edu.cn/info/1076/10153.htm)~~
 
 ~~【报名截止：6.7】[计算机科学与技术学院](https://ccst.jlu.edu.cn/info/1091/19265.htm)~~
 
@@ -416,7 +416,7 @@
 
 【报名截止：6.14】[软件工程学院“可信人工智能优秀大学生夏令营”](http://www.sei.ecnu.edu.cn/19/0c/c33171a596236/page.htm)
 
-【报名截止：6.10】[统计学院](https://stat.ecnu.edu.cn/14/73/c9708a595059/page.htm)
+~~【报名截止：6.10】[统计学院](https://stat.ecnu.edu.cn/14/73/c9708a595059/page.htm)~~
 
 ## 山东大学
 
@@ -657,7 +657,7 @@
 
 ## 西湖大学
 
-【报名截止：6.10 12:00】[工学院2024年夏令营](https://westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202404/t20240410_39140.shtml)
+~~【报名截止：6.10 12:00】[工学院2024年夏令营](https://westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202404/t20240410_39140.shtml)~~
 
 ~~【报名截止：5.31 12:00】[暑期科研实习](https://www.westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202404/t20240418_39507.shtml)~~
 
@@ -711,7 +711,7 @@
 
 【报名截止：6.14】[工程学院系统工程与工程管理系（SEEM）博士生夏令营](https://mp.weixin.qq.com/s/GKvRFOTSyl48H4QhNza2uQ)
 
-【报名截止：6.10】[港中大（深圳）理工学院-本科生科研实践夏令营](https://mp.weixin.qq.com/s/BfEz1DRxRoDTAaTtka9czQ)
+~~【报名截止：6.10】[港中大（深圳）理工学院-本科生科研实践夏令营](https://mp.weixin.qq.com/s/BfEz1DRxRoDTAaTtka9czQ)~~
 
 ## 香港大学
 
