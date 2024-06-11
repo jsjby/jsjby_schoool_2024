@@ -298,6 +298,8 @@
 
 【报名截止：7.1】[前沿科学技术研究院](https://fist.xjtu.edu.cn/info/1013/4052.htm)
 
+【报名截止：6.30】[新闻与新媒体学院](https://xmtxy.xjtu.edu.cn/info/1054/9931.htm)
+
 【报名截止：6.26】[国家储能平台（中心）](https://gjcnpt.xjtu.edu.cn/info/1058/1792.htm)
 
 【报名截止：6.25】[软件学院](http://se.xjtu.edu.cn/info/1043/2679.htm)
