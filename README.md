@@ -442,12 +442,6 @@
 
 【报名截止：6.23】[微电子学院](https://weidianzi.nwpu.edu.cn/info/1132/4904.htm)
 
-## 北京邮电大学
-
-【报名截止：7.31】[电子工程学院](https://see.bupt.edu.cn/info/1047/2741.htm)
-
-【报名截止：6.23】[计算机学院](https://scs.bupt.edu.cn/info/1050/3886.htm)
-
 ## 吉林大学
 
 【报名截止：6.23】[交通学院](https://jt.jlu.edu.cn/info/1066/6305.htm)
@@ -496,7 +490,7 @@
 
 【报名截止：6.25】[软件学院](https://www.sc.sdu.edu.cn/info/1019/4710.htm)
 
-【报名截止：6.25】[计算机科学与技术学院/人工智能学院](计算机科学与技术学院/人工智能学院)
+【报名截止：6.25】[计算机科学与技术学院/人工智能学院](https://www.cs.sdu.edu.cn/info/1068/6284.htm)
 
 【报名截止：6.23】[新闻传播学院](https://www.jc.sdu.edu.cn/info/1103/10471.htm)
 
@@ -716,6 +710,12 @@
 
 【报名截止：6.25】[软件学院、大连理工大学-立命馆大学国际信息与软件学院](https://ss.dlut.edu.cn/info/1122/28802.htm)
 
+## 北京邮电大学
+
+【报名截止：7.31】[电子工程学院](https://see.bupt.edu.cn/info/1047/2741.htm)
+
+【报名截止：6.23】[计算机学院](https://scs.bupt.edu.cn/info/1050/3886.htm)
+
  ## 北京交通大学
 
 > [北京交通大学夏令营信息](https://gs.bjtu.edu.cn/cms/zszt/item/3011.html)
@@ -763,6 +763,10 @@
 ## 中南财经政法大学
 
 【报名截止：6.27】[信息工程学院](https://xagx.zuel.edu.cn/2024/0613/c3402a367704/page.htm)
+
+## 中国石油大学（华东）
+
+【报名截止：7.1】[石油工程学院](https://pe.upc.edu.cn/2024/0614/c20312a434122/page.htm)
 
  ## 浙江师范大学
 
@@ -918,9 +922,9 @@
 
 > [对外经济贸易大学夏令营信息](https://yjsy.uibe.edu.cn/cms/infoSingleArticle.do?articleId=7345&columnId=2398)
 
-##  石油工程学院
+##  重庆交通大学
 
-【报名截止：7.1】[石油工程学院夏令营信息](https://pe.upc.edu.cn/2024/0614/c20312a434122/page.htm)
+> [重庆交通大学夏令营信息](https://yjszs.cqjtu.edu.cn/info/1050/2211.htm)
 
 ## 香港中文大学
 
