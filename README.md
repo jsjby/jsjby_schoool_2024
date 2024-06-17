@@ -698,6 +698,8 @@
 
 【报名截止：6.26】[工程科学学院](https://mp.weixin.qq.com/s/NlPISZrq6sIzpVgVrbsCWg)
 
+【报名截止：6.21】[生命科学学院](https://www.ucas.ac.cn/tz/0da1943da5d24c8ea66c18f326f70cdf.htm)
+
 ~~【报名截止：6.17】[华大专项 |基因组学|生物信息学|人工智能](https://mp.weixin.qq.com/s/mJq6nn0-_2IbKZ25q09jMg)~~
 
 ~~【报名截止：6.16】[杭州高等研究院](http://hias.ucas.ac.cn/znkxyjs/info/1055/1722.htm)~~
