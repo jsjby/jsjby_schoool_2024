@@ -248,11 +248,11 @@
 
 > [天津大学夏令营信息](https://yzb.tju.edu.cn/xwzx/zxxx/202406/t20240605_323809.htm)
 
-【报名截止：6.25】[新媒体与传播学院](http://snmc.tju.edu.cn/info/1120/2163.htm)
-
 【报名截止：6.20】[电气自动化与信息工程学院](https://seea.tju.edu.cn/info/1031/4573.htm)
 
 【报名截止：6.19】[佐治亚理工深圳学院](https://www.gtsi.edu.cn/node/4325)
+
+【报名截止：6.19】[新媒体与传播学院](http://snmc.tju.edu.cn/info/1120/2163.htm)
 
 【报名截止：6.19】[医学院](https://mctu.tju.edu.cn/info/1061/3485.htm)
 
@@ -948,7 +948,7 @@
 
 ## 深圳大学
 
-【报名截止：6.18】[计算机夏令营](https://mp.weixin.qq.com/s/2mzeis4AAbb_lPSoBnUO2g)
+【报名截止：6.30】[计算机夏令营](https://mp.weixin.qq.com/s/2mzeis4AAbb_lPSoBnUO2g)
 
 ## 广东工业大学
 
