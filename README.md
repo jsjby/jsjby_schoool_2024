@@ -678,6 +678,8 @@
 
 【报名截止：6.25】[脑科学与智能技术卓越创新中心](https://mp.weixin.qq.com/s/CamcfCmc3jmwMaiS5WVYqA)
 
+【报名截止：6.25】[信息工程研究所](http://www.iie.cas.cn/xsjy2020/zxtz2020/202405/t20240528_7173993.html)
+
 【报名截止：6.25】[高能物理研究所](http://www.ihep.cas.cn/edu/bks/xly/202405/t20240513_7159182.html)
 
 【报名截止：6.25】[杭州医学研究所](https://www.ucas.ac.cn/tz/b0fa805e002b400d9df4d120ceb21335.htm)
@@ -701,8 +703,6 @@
 【报名截止：6.20】[上海高等研究院](http://www.sari.cas.cn/gradedu/gdzssz/gddxssjxm/202404/t20240429_7141703.html)
 
 【报名截止：6.20】[声学研究所](http://www.ioa.cas.cn/yjs/zsxx/zstz/202405/t20240510_7157540.html)
-
-【报名截止：6.20】[信息工程研究所](http://www.iie.cas.cn/xsjy2020/zxtz2020/202405/t20240528_7173993.html)
 
 【报名截止：6.20】[微小卫星创新研究院](https://www.ucas.ac.cn/tz/8b62b04cdce041e8bfae127e0699bce3.htm)
 
