@@ -272,6 +272,12 @@
 
 > [北京航空航天大学夏令营信息](https://yzb.buaa.edu.cn/info/1036/3101.htm)
 
+【报名截止：6.30】[大科学装置研究院](https://yqgdxy.buaa.edu.cn/info/1053/6147.htm)
+
+【报名截止：6.28】[计算机学院](https://scse.buaa.edu.cn/info/1299/11192.htm)
+
+【报名截止：6.25】[软件学院](https://soft.buaa.edu.cn/news_nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1325&wbnewsid=11312)
+
 ## 北京理工大学
 
 【报名截止：6.27】[前沿交叉科学研究院](https://arims.bit.edu.cn/tz/c9af7401b6be49beb2fb5dbd31d84611.htm)
@@ -281,6 +287,10 @@
 【报名截止：6.25】[数学与统计](https://math.bit.edu.cn/tzgg/d7bca34afde946b0a087f6c658dfbe13.htm)
 
 【报名截止：6.24】[医学技术学院](https://smt.bit.edu.cn/tzgg/642567b2361c4f15ae3372bea86c6eac.htm)
+
+【报名截止：6.24】[珠海校区](https://mp.weixin.qq.com/s/WwD3GK9s1or_MHtx5jGUmg)
+
+珠海校区定于2024年7月8日-10日，举办首届北京理工大学珠海校区全国优秀大学生暑期夏令营，欢迎全国高校的电子信息、集成电路、自动化、计算机、材料、化工、机械、车辆、能源动力、航空航天、力学等相关专业
 
 ## 北京师范大学
 
@@ -306,7 +316,9 @@
 
 ## 哈尔滨工业大学
 
-~~> [哈尔滨工业大学夏令营消息](http://yzb.hit.edu.cn/2024/0506/c8824a343961/page.htm) | [哈尔滨工业大学（威海）暑期夏令营信息](https://today.hitwh.edu.cn/2024/0507/c1024a182481/page.htm) | [哈尔滨工业大学（深圳）夏令营信息](https://yzb.hitsz.edu.cn/yzs_common/zsxxxq/index?id=a684dc6879a84bef879effe772d8c2c5&xxlm=04)~~
+> [哈尔滨工业大学夏令营消息](http://yzb.hit.edu.cn/2024/0506/c8824a343961/page.htm) | [哈尔滨工业大学（威海）暑期夏令营信息](https://today.hitwh.edu.cn/2024/0507/c1024a182481/page.htm) | [哈尔滨工业大学（深圳）夏令营信息](https://yzb.hitsz.edu.cn/yzs_common/zsxxxq/index?id=a684dc6879a84bef879effe772d8c2c5&xxlm=04)
+
+【报名截止：6.26】[重庆研究院](https://cri.hit.edu.cn/2024/0607/c15728a346329/pagem.htm)
 
 ~~【报名截止：6.7】[电气工程及自动化学院](https://hitee.hit.edu.cn/2024/0506/c17101a343967/page.htm)~~
 
@@ -403,6 +415,8 @@
 【报名截止：6.25】[生命科学与技术学院](https://www.life.uestc.edu.cn/info/1166/6388.htm)
 
 【报名截止：6.24】[智能计算研究院](https://icct.uestc.edu.cn/info/1029/1665.htm)
+
+智能协同计算技术国家级重点实验室是由国家机关布局建设的新型科研机构，于2023年7月获批立项.2023已招收一届推免生，今年第一次开展夏令营活动。
 
 【报名截止：6.24】[计算机（网安）学院](https://www.scse.uestc.edu.cn/info/1015/16136.htm)
 
@@ -534,6 +548,8 @@
 
 【报名截止：6.26】[化学化工学院](https://hgxy.cqu.edu.cn/info/1158/7043.htm)
 
+【报名截止：6.26】[国家卓越工程师学院](https://eie.cqu.edu.cn/info/1483/2569.htm)
+
 ## 东北大学
 
 > [东北大学夏令营公告](http://yz.neu.edu.cn/2024/0606/c5932a256581/pagem.htm)
@@ -605,6 +621,8 @@
 > [中国科学技术大学 “优秀大学生夏令营”活动通知](https://xly.ustc.edu.cn/news.php?newsid=981)
 
 【报名截止：N/A】[量子物理和量子信息研究团队保研招生简章](https://quantum.ustc.edu.cn/web/index.php/node/762)
+
+【报名截止：N/A】[东方理工专项本科直博招生](https://www.eitech.edu.cn/?admission=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6%EF%BC%88%E4%B8%9C%E6%96%B9%E7%90%86%E5%B7%A5%E4%B8%93%E9%A1%B9%EF%BC%892025%E7%BA%A7%E6%9C%AC%E7%A7%91%E7%9B%B4%E5%8D%9A)
 
 【报名截止：N/A】[自动化系2024年研招夏令营公告](https://auto.ustc.edu.cn/2024/0603/c26085a642769/page.htm)
 
