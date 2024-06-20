@@ -306,9 +306,9 @@
 
 【报名截止：N/A】[高瓴人工智能学院AI-Engine实验室](https://mp.weixin.qq.com/s/0BFY6nHouLgSGd5cOizIIg)
 
-【报名截止：6.23】[统计与大数据研究院 ](http://isbd.ruc.edu.cn/xwgg/tzggAnnouncement/57062ca23b8f42d8a737b23e99a8b99a.htm)
-
 【报名截止：6.24】[智慧治理学院](http://zhzl.ruc.edu.cn/tzgg/d4007aeea3d447cc9529be1edee1cbff.htm)
+
+~~【报名截止：6.17】[统计与大数据研究院 ](http://isbd.ruc.edu.cn/xwgg/tzggAnnouncement/57062ca23b8f42d8a737b23e99a8b99a.htm)~~
 
 ~~【报名截止：6.14】[信息学院](http://info.ruc.edu.cn/rcpy/bss/zsxx3/a945da71ead24051af090a695d0598b7.htm)~~
 
