@@ -144,6 +144,8 @@
 
 【报名截止：7.15】[匡亚明学院](https://dii.nju.edu.cn/89/f5/c11317a690677/page.htm)
 
+【报名截止：6.23】[现代生物研究院](https://imb.nju.edu.cn/yjyxw/20240531/i267706.html)
+
 ~~【报名截止：6.20】[软件学院](https://software.nju.edu.cn//tzgg/20240528/i267245.html)~~
 
 ~~【报名截止：6.20】[智能软件与工程学院](https://ise.nju.edu.cn/info/1018/1841.htm)~~
@@ -153,8 +155,6 @@
 > * 注意：该夏令营与计算机系以及人工智能学院的推免夏令营无关。
 
 ~~【报名截止：6.16】[南京赫尔辛基大气与地球系统科学学院](https://mp.weixin.qq.com/s/K9hKQztm9Bv2lUPEKF1nPQ)~~
-
-~~【报名截止：6.16】[现代生物研究院](https://imb.nju.edu.cn/yjyxw/20240531/i267706.html)~~
 
 ~~【报名截止：6.15】[集成电路学院](https://mp.weixin.qq.com/s/gPr3ZM1vLrz-sSphKN125w)~~
 
