@@ -716,6 +716,8 @@
 
 【报名截止：6.30】[沈阳自动化研究所](http://www.sia.cas.cn/zpjy/yjsjy/zs/zsgg/202405/t20240531_7176928.html)
 
+【报名截止：6.29】[心理研究所](http://www.psych.ac.cn/edu/zsxx/sszs/202406/t20240621_7194422.html)
+
 【报名截止：6.28】[软件研究所](http://www.iscas.ac.cn/yjsjy2016/zsxx2016/202405/t20240515_7162425.html)
 
 【报名截止：6.26】[计算机网络信息中心](https://cnic.cas.cn/yjsjy/tzgg/202405/t20240521_7167085.html)
