@@ -262,6 +262,8 @@
 
 > [天津大学夏令营信息](https://yzb.tju.edu.cn/xwzx/zxxx/202406/t20240605_323809.htm)
 
+【报名截止：6.25】[智能与计算学部国优计划](https://cic.tju.edu.cn/info/1041/4979.htm)
+
 ~~【报名截止：6.20】[电气自动化与信息工程学院](https://seea.tju.edu.cn/info/1031/4573.htm)~~
 
 ~~【报名截止：6.19】[佐治亚理工深圳学院](https://www.gtsi.edu.cn/node/4325)~~
@@ -794,7 +796,7 @@
 
 > [中国海洋大学夏令营消息](https://yz.ouc.edu.cn/2024/0611/c5926a474404/page.htm)
 
-【报名截止：6.20】[信息科学与工程学部](https://it.ouc.edu.cn/2024/0607/c16066a466732/page.htm)
+~~【报名截止：6.20】[信息科学与工程学部](https://it.ouc.edu.cn/2024/0607/c16066a466732/page.htm)~~
 
  ## 大连理工大学
 
@@ -937,6 +939,8 @@
 ## 北京语言大学
 
 > [北京语言大学夏令营信息](https://yjsy.blcu.edu.cn/art/2024/5/17/art_13223_1170150.html)
+
+【报名截止：6.30】[人工智能与人类语言重点实验室](https://mp.weixin.qq.com/s/jE5zh70IbsyPVdXKUnJ6QA)
 
 ## 首都师范大学
 
@@ -1091,6 +1095,14 @@
 ## 浙江工商大学
 
 ~~【报名截止：6.21】[计算机科学与技术学院](https://scie.zjgsu.edu.cn/zh-hans/node/2432)~~
+
+## 浙江工业大学
+
+【报名截止：7.5】[信息工程学院](https://mp.weixin.qq.com/s/ixg1TUkRsV7qV0QlCU3rWg)
+
+## 江西农业大学
+
+> [江西农业大学夏令营信息](https://yanjiusheng.jxau.edu.cn/13/19/c1035a135961/page.htm)
 
 ## 江南大学
 
