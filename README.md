@@ -748,7 +748,7 @@
 
 【报名截止：6.30】[沈阳自动化研究所](http://www.sia.cas.cn/zpjy/yjsjy/zs/zsgg/202405/t20240531_7176928.html)
 
-【报名截止：6.29】[心理研究所](http://www.psych.ac.cn/edu/zsxx/sszs/202406/t20240621_7194422.html)
+~~【报名截止：6.29】[心理研究所](http://www.psych.ac.cn/edu/zsxx/sszs/202406/t20240621_7194422.html)~~
 
 ~~【报名截止：6.28】[软件研究所](http://www.iscas.ac.cn/yjsjy2016/zsxx2016/202405/t20240515_7162425.html)~~
 
@@ -982,6 +982,10 @@
 
 ~~【报名截止：6.27】[机自学院机械自动化工程系](https://mae.shu.edu.cn/info/1012/2264.htm)~~
 
+## 上海第二工业大学
+
+【报名截止：7.31】[计算机与信息工程学院](https://jxxy.sspu.edu.cn/2024/0628/c2084a155183/page.htm)
+
 ## 北京语言大学
 
 > [北京语言大学夏令营信息](https://yjsy.blcu.edu.cn/art/2024/5/17/art_13223_1170150.html)
@@ -1123,6 +1127,8 @@
 【报名截止：7.8】[医学部生物医学工程学院](https://mp.weixin.qq.com/s/GI7xDwhwgkx7uc1KwwFkJg)
 
 【报名截止：7.5】[微众银行金融科技学院](https://mp.weixin.qq.com/s/slDYOszjqMu6LiAivo-NvQ)
+
+【报名截止：7.5】[大湾区国际创新学院](https://ma.szu.edu.cn/info/1100/8373.htm)
 
 【报名截止：7.3】[电子与信息工程学院](https://mp.weixin.qq.com/s/mxV8bHtcu_7Jy5dYyb3vaA)
 
