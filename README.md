@@ -464,6 +464,10 @@
 
 ~~【报名截止：6.20】[光电科学与工程学院](https://sose.uestc.edu.cn/info/1075/13998.htm)~~
 
+## 鹏城实验室
+
+【报名截止：7.14】[鹏城实验室](https://yzw.pcl.ac.cn/yzs_new/zsxxxq/index?id=7ae364bdaed74eeaa02bee310faca034&xxlm=03)
+
 ## 中山大学
 
 【报名截止：7.3】[智能工程学院](https://ise.sysu.edu.cn/notice/1416128.htm)
@@ -902,7 +906,7 @@
 
 > [南京理工大学夏令营消息](https://gs.njust.edu.cn/zsw/20/f0/c4587a336112/page.htm)
 
-【报名截止：7.2】[网络空间安全学院](https://mp.weixin.qq.com/s/MAAb5REsBRIUQcjkUrdpJg)
+~~【报名截止：7.2】[网络空间安全学院](https://mp.weixin.qq.com/s/MAAb5REsBRIUQcjkUrdpJg)~~
 
 ~~【报名截止：6.25】[计算机科学与工程学院](https://mp.weixin.qq.com/s/QcE97Lc6TGwVBbQlc8CdRQ)~~
 
@@ -956,7 +960,7 @@
 
  ## 中国地质大学（北京）
 
-【报名截止：7.2】[数理学院](https://ss.cugb.edu.cn/c/2024-06-13/805908.shtml)
+~~【报名截止：7.2】[数理学院](https://ss.cugb.edu.cn/c/2024-06-13/805908.shtml)~~
 
 ## 中南财经政法大学
 
