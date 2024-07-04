@@ -270,6 +270,8 @@
 
 【报名截止：8.5】[网络空间安全学院](https://cyber.seu.edu.cn/2024/0627/c18223a495771/page.htm)
 
+【报名截止：8.3】[生物科学与医学工程学院](https://bme.seu.edu.cn/2024/0702/c480a496237/page.htm)
+
 【报名截止：8.1】[计算机科学与工程学院、软件学院](https://cse.seu.edu.cn/2024/0629/c22646a495911/page.htm)
 
 【报名截止：8.1】[自动化学院](https://automation.seu.edu.cn/2024/0628/c24460a495814/page.htm)
@@ -572,9 +574,11 @@
 
 【报名截止：7.15】[武汉光电国家研究中心](https://wnlo.hust.edu.cn/info/1178/12526.htm)
 
-【报名截止：7.4】[集成电路学院](https://ic.hust.edu.cn/info/1242/3460.htm)
+【报名截止：7.10】[机械科学与工程学院 ](https://mse.hust.edu.cn/info/1181/15213.htm)
 
-【报名截止：7.4】[计算机科学与技术学院](https://cs.hust.edu.cn/info/1439/4088.htm)
+~~【报名截止：7.4】[集成电路学院](https://ic.hust.edu.cn/info/1242/3460.htm)~~
+
+~~【报名截止：7.4】[计算机科学与技术学院](https://cs.hust.edu.cn/info/1439/4088.htm)~~
 
 ~~【报名截止：7.1】[电子信息与通信学院](https://mp.weixin.qq.com/s/-E2x7P8QpXLGTX2LUnJreQ)~~
 
@@ -610,7 +614,7 @@
 
 【报名截止：N/A】[自动化学院](https://mp.weixin.qq.com/s/mlxCrVFNjzVsymKh-5zalA)
 
-【报名截止：7.4】[大数据与软件学院](https://mp.weixin.qq.com/s/12uN04ZHLYiDC7kmP7idSw?poc_token=HFdpgWajlBiMUNR4bn03553lSFEjUh98EzZkvPh7)
+~~【报名截止：7.4】[大数据与软件学院](https://mp.weixin.qq.com/s/12uN04ZHLYiDC7kmP7idSw?poc_token=HFdpgWajlBiMUNR4bn03553lSFEjUh98EzZkvPh7)~~
 
 ~~【报名截止：6.30】[计算机学院](https://mp.weixin.qq.com/s/k7H-iKD5-81RJFY94TS7tA)~~
 
@@ -920,7 +924,7 @@
 
 【报名截止：7.10】[自动化学院、人工智能学院](https://coa.njupt.edu.cn/2024/0701/c2277a267160/page.htm)
 
-【报名截止：7.3】[理学院](https://lxy.njupt.edu.cn/2024/0621/c2182a266487/page.htm)
+~~【报名截止：7.3】[理学院](https://lxy.njupt.edu.cn/2024/0621/c2182a266487/page.htm)~~
 
 ## 哈尔滨工程大学
 
@@ -937,6 +941,10 @@
 > [大连海事大学夏令营信息](https://www.dlmu.edu.cn/info/1060/76078.htm)
 
 【报名截止：7.8】[信息科学技术学院](https://www.dlmu.edu.cn/info/1060/76078.htm)
+
+## 苏州大学
+
+【报名截止：7.20】[未来科学与工程学院](https://mp.weixin.qq.com/s/QCPPs6NOlo9IUon4IJA__w)
 
  ## 中国传媒大学
 
@@ -969,6 +977,10 @@
  ## 中国地质大学（北京）
 
 ~~【报名截止：7.2】[数理学院](https://ss.cugb.edu.cn/c/2024-06-13/805908.shtml)~~
+
+ ## 中国农业科学院
+
+【报名截止：7.11】[农业信息研究所](https://aii.caas.cn/yjspy/zsxx/e1b4de6b05a94ec4a556b0aed0665ac3.htm)
 
 ## 中南财经政法大学
 
