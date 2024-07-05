@@ -216,7 +216,7 @@
 
 ## 国防科技大学
 
-【报名截止：7.5】[电子科学学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13805)
+~~【报名截止：7.5】[电子科学学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13805)~~
 
 ~~【报名截止：7.3】[智能科学学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13819)~~
 
@@ -263,6 +263,8 @@
 ## 东南大学
 
 > [东南大学夏令营信息](https://yzb.seu.edu.cn/2024/0613/c6676a493845/pagem.htm)
+
+【报名截止：8.15】[集成电路学院](https://ic.seu.edu.cn/2024/0704/c47777a496503/page.htm)
 
 【报名截止：8.11】[电子科学与工程学院](https://electronic.seu.edu.cn/2024/0625/c11479a495398/pagem.htm)
 
@@ -508,7 +510,7 @@
 
 > [西北工业大学夏令营信息](https://yzb.nwpu.edu.cn/info/1174/9238.htm)
 
-【报名截止：7.5】[民航学院](https://minhang.nwpu.edu.cn/info/1150/10063.htm)
+~~【报名截止：7.5】[民航学院](https://minhang.nwpu.edu.cn/info/1150/10063.htm)~~
 
 ~~【报名截止：6.30】[海洋研究院](https://haiyang.nwpu.edu.cn/info/1034/3771.htm)~~
 
@@ -744,7 +746,11 @@
 
 【报名截止：10.18】[新疆理化技术研究所](http://www.xjipc.cas.cn/yjs/zs/sszs/202406/t20240604_7184062.html)
 
+【报名截止：9.28】[国家空间科学中心](http://www.nssc.cas.cn/yjsb/zsxx/zsdt/202407/t20240705_7213268.html)
+
 【报名截止：8.5】[空间应用工程与技术中心](https://mp.weixin.qq.com/s/4Fs6y3gtXhupCJsHqIVW1Q)
+
+【报名截止：7.11】[海洋研究所](http://www.qdio.ac.cn/yjs/yjsnotice/202407/t20240705_792195.html)
 
 ~~【报名截止：7.1】[微电子研究所](http://www.ime.cas.cn/kjrh/tzggkjrh/202405/t20240522_7168020.html)~~
 
@@ -888,6 +894,8 @@
 
 【报名截止：N/A】[网络空间安全学院](https://cbs.hdu.edu.cn/2024/0620/c2594a266529/page.htm)
 
+【报名截止：7.20】[管理学院](https://management.hdu.edu.cn/2024/0705/c965a267099/page.htm)
+
  ## 南京航空航天大学
 
 > [南京航空航天大学夏令营信息](http://www.graduate.nuaa.edu.cn/2024/0619/c2145a345396/page.htm)
@@ -946,6 +954,8 @@
 
 【报名截止：7.20】[未来科学与工程学院](https://mp.weixin.qq.com/s/QCPPs6NOlo9IUon4IJA__w)
 
+【报名截止：7.16】[电子信息学院](https://dzxx.suda.edu.cn/d2/09/c8244a578057/page.htm)
+
  ## 中国传媒大学
 
 > [中国传媒大学夏令营信息](https://yz.cuc.edu.cn/2024/0614/c8549a220981/page.htm)
@@ -993,6 +1003,10 @@
  ## 浙江师范大学
 
 > [浙江师范大学夏令营信息](https://yzw.zjnu.edu.cn/2024/0611/c4966a470591/page.htm)
+
+ ## 湖南师范大学
+
+> [湖南师范大学预推免信息](https://yjsy.hunnu.edu.cn/info/1027/15163.htm)
 
 ## 上海科技大学
 
@@ -1056,7 +1070,7 @@
 
 ## 北京语言大学
 
-【报名截止：7.5】[信息科学学院语言智能研究院](https://mp.weixin.qq.com/s/-mgDyLPzizPcuSOh2j-T-w)
+~~【报名截止：7.5】[信息科学学院语言智能研究院](https://mp.weixin.qq.com/s/-mgDyLPzizPcuSOh2j-T-w)~~
 
 ## 北京脑科学与类脑研究所
 
@@ -1100,7 +1114,7 @@
 
 ## 华北电力大学
 
-【报名截止：7.4】[控制与计算机工程学院](https://cce.ncepu.edu.cn/tztg1/15bf28bd060640648fb0ac22a5439710.htm)
+~~【报名截止：7.4】[控制与计算机工程学院](https://cce.ncepu.edu.cn/tztg1/15bf28bd060640648fb0ac22a5439710.htm)~~
 
 ~~【报名截止：6.30】[电气与电子工程学院](https://electric.ncepu.edu.cn/zsgz/bsyjszs/432f27cc7246428387d6078081e03515.htm)~~
 
@@ -1156,7 +1170,7 @@
 
 ## 深圳技术大学
 
-【报名截止：7.5】[健康与环境工程学院](https://mp.weixin.qq.com/s/5t_zUJmP7stMMNzAyRburw)
+~~【报名截止：7.5】[健康与环境工程学院](https://mp.weixin.qq.com/s/5t_zUJmP7stMMNzAyRburw)~~
 
 ## 深圳大学
 
@@ -1166,9 +1180,9 @@
 
 【报名截止：7.8】[医学部生物医学工程学院](https://mp.weixin.qq.com/s/GI7xDwhwgkx7uc1KwwFkJg)
 
-【报名截止：7.5】[微众银行金融科技学院](https://mp.weixin.qq.com/s/slDYOszjqMu6LiAivo-NvQ)
+~~【报名截止：7.5】[微众银行金融科技学院](https://mp.weixin.qq.com/s/slDYOszjqMu6LiAivo-NvQ)~~
 
-【报名截止：7.5】[大湾区国际创新学院](https://ma.szu.edu.cn/info/1100/8373.htm)
+~~【报名截止：7.5】[大湾区国际创新学院](https://ma.szu.edu.cn/info/1100/8373.htm)~~
 
 ~~【报名截止：7.3】[电子与信息工程学院](https://mp.weixin.qq.com/s/mxV8bHtcu_7Jy5dYyb3vaA)~~
 
@@ -1212,9 +1226,9 @@
 
 ## 浙江工业大学
 
-【报名截止：7.5】[信息工程学院](https://mp.weixin.qq.com/s/ixg1TUkRsV7qV0QlCU3rWg)
+~~【报名截止：7.5】[信息工程学院](https://mp.weixin.qq.com/s/ixg1TUkRsV7qV0QlCU3rWg)~~
 
-【报名截止：7.4】[管理学院](http://www.som.zjut.edu.cn/jsp/news.jsp?neId=25008)
+~~【报名截止：7.4】[管理学院](http://www.som.zjut.edu.cn/jsp/news.jsp?neId=25008)~~
 
 ## 江西农业大学
 
@@ -1232,7 +1246,7 @@
 
 > [云南大学夏令营信息](http://www.grs.ynu.edu.cn/info/1008/4789.htm)
 
-【报名截止：7.5】[软件学院](http://www.sei.ynu.edu.cn/info/1057/2332.htm)
+~~【报名截止：7.5】[软件学院](http://www.sei.ynu.edu.cn/info/1057/2332.htm)~~
 
 ## 江南大学
 
@@ -1266,11 +1280,11 @@
 
 ##  火箭军工程大学
 
-【报名截止：7.4】[火箭军工程大学](https://mp.weixin.qq.com/s/X-wJKYOVX982AlS4Ym0GFA)
+~~【报名截止：7.4】[火箭军工程大学](https://mp.weixin.qq.com/s/X-wJKYOVX982AlS4Ym0GFA)~~
 
 ##  航天工程大学
 
-【报名截止：7.5】[航天工程大学](https://mp.weixin.qq.com/s/3q6w4ZCqrhNoVeqQ2upA2g)
+~~【报名截止：7.5】[航天工程大学](https://mp.weixin.qq.com/s/3q6w4ZCqrhNoVeqQ2upA2g)~~
 
 ##  航天二院
 
@@ -1282,11 +1296,11 @@
 
 ##  中国民用航空飞行学院
 
-【报名截止：7.5】[空管学院](https://mp.weixin.qq.com/s/CSepERhxvXlUEfkubSz4_A)
+~~【报名截止：7.5】[空管学院](https://mp.weixin.qq.com/s/CSepERhxvXlUEfkubSz4_A)~~
 
 ##  中国人民解放军军事科学院
 
-【报名截止：7.5】[中国人民解放军军事科学院](https://mp.weixin.qq.com/s/iDBPucqozYMYyny0MfjJuA)
+~~【报名截止：7.5】[中国人民解放军军事科学院](https://mp.weixin.qq.com/s/iDBPucqozYMYyny0MfjJuA)~~
 
 ##  海军工程大学
 
