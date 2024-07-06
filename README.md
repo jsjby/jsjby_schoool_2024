@@ -264,6 +264,8 @@
 
 > [东南大学夏令营信息](https://yzb.seu.edu.cn/2024/0613/c6676a493845/pagem.htm)
 
+【报名截止：N/A】[PALM实验室](https://palm.seu.edu.cn/application.html)
+
 【报名截止：8.15】[集成电路学院](https://ic.seu.edu.cn/2024/0704/c47777a496503/page.htm)
 
 【报名截止：8.11】[电子科学与工程学院](https://electronic.seu.edu.cn/2024/0625/c11479a495398/pagem.htm)
@@ -952,6 +954,8 @@
 
 ## 苏州大学
 
+【报名截止：9.11（前一周）】[计算机科学和技术学院（软件学院）](https://scst.suda.edu.cn/d4/c2/c29555a578754/page.htm)
+
 【报名截止：7.20】[未来科学与工程学院](https://mp.weixin.qq.com/s/QCPPs6NOlo9IUon4IJA__w)
 
 【报名截止：7.16】[电子信息学院](https://dzxx.suda.edu.cn/d2/09/c8244a578057/page.htm)
@@ -985,6 +989,8 @@
 ~~【报名截止：6.28】[管理科学与工程学院](https://mse.cufe.edu.cn/info/1073/10921.htm)~~
 
  ## 中国地质大学（北京）
+
+【报名截止：N/A】[公书慧老师课题组](https://mp.weixin.qq.com/s/QdDXY71BdEvw6EgKNHBZqQ)
 
 ~~【报名截止：7.2】[数理学院](https://ss.cugb.edu.cn/c/2024-06-13/805908.shtml)~~
 
