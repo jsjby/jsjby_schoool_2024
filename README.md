@@ -932,6 +932,10 @@
 
 ## 南京邮电大学
 
+【报名截止：7.17】[通信与信息工程学院](http://scie.njupt.edu.cn/2024/0707/c2890a267588/page.htm)
+
+【报名截止：7.12】[现代邮政学院](https://mp.weixin.qq.com/s/Cwbwv0pk_egqYb3A2aD-Dg)
+
 【报名截止：7.10】[自动化学院、人工智能学院](https://coa.njupt.edu.cn/2024/0701/c2277a267160/page.htm)
 
 ~~【报名截止：7.3】[理学院](https://lxy.njupt.edu.cn/2024/0621/c2182a266487/page.htm)~~
@@ -1062,7 +1066,7 @@
 
 > [北京工业大学](https://yanzhao.bjut.edu.cn/info/1025/15888.htm)
 
-【报名截止：7.7】[信息科学技术学院](https://mp.weixin.qq.com/s/ACtEC-v1Q1tK8JHnS3dVTg)
+~~【报名截止：7.7】[信息科学技术学院](https://mp.weixin.qq.com/s/ACtEC-v1Q1tK8JHnS3dVTg)~~
 
 ~~【报名截止：6.30】[计算机学院](https://yanzhao.bjut.edu.cn/info/1025/15888.htm)~~
 
