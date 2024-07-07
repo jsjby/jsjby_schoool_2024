@@ -1234,6 +1234,10 @@
 
 ~~【报名截止：6.21】[计算机科学与技术学院](https://scie.zjgsu.edu.cn/zh-hans/node/2432)~~
 
+## 浙江农林大学
+
+【报名截止：7.30】[数学与计算机科学学院](https://yjszs.zafu.edu.cn/info/1022/2514.htm)
+
 ## 浙江工业大学
 
 ~~【报名截止：7.5】[信息工程学院](https://mp.weixin.qq.com/s/ixg1TUkRsV7qV0QlCU3rWg)~~
