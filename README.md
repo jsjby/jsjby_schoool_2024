@@ -478,6 +478,8 @@
 
 ~~【报名截止：7.3】[智能工程学院](https://ise.sysu.edu.cn/notice/1416128.htm)~~
 
+~~【报名截止：7.1】[软件工程学院夏令营安排](https://sse.sysu.edu.cn/article/743?nPc3zErtSS1t=1720446823967)~~
+
 ~~【报名截止：7.1】[软件工程学院](https://sse.sysu.edu.cn/article/723?nPc3zErtSS1t=1717943608620)~~
 
 ~~【报名截止：6.28】[中山医学院](https://zssom.sysu.edu.cn/zh-hans/article/10774?nPc3zErtSS1t=1718463210095)~~
@@ -880,7 +882,7 @@
 
 > [北京交通大学夏令营信息](https://gs.bjtu.edu.cn/cms/zszt/item/3011.html)
 
-【报名截止：7.8】[计算机科学与技术学院](https://cs.bjtu.edu.cn/zsjy/yjszs3/yjszs_tzgg/202312184.htm)
+~~【报名截止：7.8】[计算机科学与技术学院](https://cs.bjtu.edu.cn/zsjy/yjszs3/yjszs_tzgg/202312184.htm)~~
 
 ~~【报名截止：7.1】[软件学院](http://sse.bjtu.edu.cn/cms/item/995.html)~~
 
@@ -932,6 +934,8 @@
 
 ## 南京邮电大学
 
+【报名截止：7.31】[计算机学院、软件学院、网络空间安全学院](https://cs.njupt.edu.cn/2024/0705/c16083a267466/page.htm)
+
 【报名截止：7.17】[通信与信息工程学院](http://scie.njupt.edu.cn/2024/0707/c2890a267588/page.htm)
 
 【报名截止：7.12】[现代邮政学院](https://mp.weixin.qq.com/s/Cwbwv0pk_egqYb3A2aD-Dg)
@@ -954,7 +958,7 @@
 
 > [大连海事大学夏令营信息](https://www.dlmu.edu.cn/info/1060/76078.htm)
 
-【报名截止：7.8】[信息科学技术学院](https://www.dlmu.edu.cn/info/1060/76078.htm)
+~~【报名截止：7.8】[信息科学技术学院](https://www.dlmu.edu.cn/info/1060/76078.htm)~~
 
 ## 苏州大学
 
@@ -1188,7 +1192,7 @@
 
 【报名截止：7.14】[大数据系统计算技术国家工程实验室](https://mp.weixin.qq.com/s/vl_Tt27hHRXbIYgzksFchg)
 
-【报名截止：7.8】[医学部生物医学工程学院](https://mp.weixin.qq.com/s/GI7xDwhwgkx7uc1KwwFkJg)
+~~【报名截止：7.8】[医学部生物医学工程学院](https://mp.weixin.qq.com/s/GI7xDwhwgkx7uc1KwwFkJg)~~
 
 ~~【报名截止：7.5】[微众银行金融科技学院](https://mp.weixin.qq.com/s/slDYOszjqMu6LiAivo-NvQ)~~
 
