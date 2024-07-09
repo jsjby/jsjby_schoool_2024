@@ -288,6 +288,10 @@
 
 > [天津大学夏令营信息](https://yzb.tju.edu.cn/xwzx/zxxx/202406/t20240605_323809.htm)
 
+> [天津大学预推免信息](http://yzb.tju.edu.cn/xwzx/zxxx/202407/t20240706_323840.htm)
+
+【报名截止：9.14】[医学院](https://mctu.tju.edu.cn/info/1061/3511.htm)
+
 ~~【报名截止：6.26】[中国五矿校企联合培养专项](https://tjusee.tju.edu.cn/info/1126/3192.htm)~~
 
 ~~【报名截止：6.25】[智能与计算学部国优计划](https://cic.tju.edu.cn/info/1041/4979.htm)~~
@@ -334,7 +338,7 @@
 
 ## 北京师范大学
 
-【报名截止：7.9】[人工智能学院](https://mp.weixin.qq.com/s/Z02xlYAM-CYAud4zunRdBw)
+~~【报名截止：7.9】[人工智能学院](https://mp.weixin.qq.com/s/Z02xlYAM-CYAud4zunRdBw)~~
 
 ~~【报名截止：6.28】[政府管理学院信息资源管理学科](http://www.sg.bnu.edu.cn/tzgg_sy/774897ed576a421998033463a39456fa.htm)~~
 
@@ -936,6 +940,8 @@
 
 【报名截止：7.31】[计算机学院、软件学院、网络空间安全学院](https://cs.njupt.edu.cn/2024/0705/c16083a267466/page.htm)
 
+【报名截止：7.19】[物联网学院](https://ciot.njupt.edu.cn/2024/0709/c10653a267656/page.htm)
+
 【报名截止：7.17】[通信与信息工程学院](http://scie.njupt.edu.cn/2024/0707/c2890a267588/page.htm)
 
 【报名截止：7.12】[现代邮政学院](https://mp.weixin.qq.com/s/Cwbwv0pk_egqYb3A2aD-Dg)
@@ -1168,6 +1174,8 @@
 
 ## 西南交通大学
 
+【报名截止：7.12】[唐山研究院](https://mp.weixin.qq.com/s/p4UZhEv6JCrycew0yE4z2g)
+
 ~~【报名截止：6.30】[计算机与人工智能学院](https://scai.swjtu.edu.cn/web/page-newsDetail.html?nid=76f84338-a868-45aa-ab25-086628078ecf)~~
 
 ~~【报名截止：6.25】[环境科学与工程学院](http://yz.swjtu.edu.cn/vatuu/PublicActivityAction?setAction=activityDetail&activityId=B4F513430B5EBC91)~~
@@ -1271,6 +1279,10 @@
 > [江南大学夏令营信息](https://yz.jiangnan.edu.cn/info/1012/3460.htm)
 
 ~~【报名截止：6.23】[人工智能与计算机学院](https://ai.jiangnan.edu.cn/info/1055/3790.htm)~~
+
+## 江苏大学
+
+【报名截止：7.15】[科技信息研究所](https://lib.ujs.edu.cn/info/1131/22178.htm)
 
 ## 华中师范大学
 
