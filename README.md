@@ -186,7 +186,7 @@
 
 【报名截止：7.25】[控制学院](http://www.cse.zju.edu.cn/2024/0628/c39333a2940529/page.htm)
 
-【报名截止：7.10】[工程师学院](https://pi.zju.edu.cn/2024/0620/c67026a2937382/page.htm)
+~~【报名截止：7.10】[工程师学院](https://pi.zju.edu.cn/2024/0620/c67026a2937382/page.htm)~~
 
 ~~【报名截止：6.27】[浙江大学伊利诺伊大学厄巴纳香槟校区联合学院](https://zjui.intl.zju.edu.cn/node/2616)~~
 
@@ -292,6 +292,8 @@
 
 【报名截止：9.14】[医学院](https://mctu.tju.edu.cn/info/1061/3511.htm)
 
+【报名截止：8.20】[智能计算学部导师团](https://cic.tju.edu.cn/info/1041/4999.htm)
+
 ~~【报名截止：6.26】[中国五矿校企联合培养专项](https://tjusee.tju.edu.cn/info/1126/3192.htm)~~
 
 ~~【报名截止：6.25】[智能与计算学部国优计划](https://cic.tju.edu.cn/info/1041/4979.htm)~~
@@ -362,6 +364,8 @@
 
 > [哈尔滨工业大学夏令营消息](http://yzb.hit.edu.cn/2024/0506/c8824a343961/page.htm) | [哈尔滨工业大学（威海）暑期夏令营信息](https://today.hitwh.edu.cn/2024/0507/c1024a182481/page.htm) | [哈尔滨工业大学（深圳）夏令营信息](https://yzb.hitsz.edu.cn/yzs_common/zsxxxq/index?id=a684dc6879a84bef879effe772d8c2c5&xxlm=04)
 
+~~【报名截止：7.7】[卓越工程师学院](https://ees.hit.edu.cn/2024/0704/c15565a348268/page.htm)~~
+
 ~~【报名截止：6.26】[重庆研究院](https://cri.hit.edu.cn/2024/0607/c15728a346329/pagem.htm)~~
 
 ~~【报名截止：6.7】[电气工程及自动化学院](https://hitee.hit.edu.cn/2024/0506/c17101a343967/page.htm)~~
@@ -390,7 +394,7 @@
 
 【报名截止：暂无】[网络空间安全学院](http://cybersec.xjtu.edu.cn/info/1017/1932.htm)
 
-【报名截止：7.10】[未来技术学院](https://wljsxy.xjtu.edu.cn/info/1013/2414.htm)
+~~【报名截止：7.10】[未来技术学院](https://wljsxy.xjtu.edu.cn/info/1013/2414.htm)~~
 
 ~~【报名截止：7.1】[前沿科学技术研究院](https://fist.xjtu.edu.cn/info/1013/4052.htm)~~
 
@@ -584,7 +588,7 @@
 
 【报名截止：7.15】[武汉光电国家研究中心](https://wnlo.hust.edu.cn/info/1178/12526.htm)
 
-【报名截止：7.10】[机械科学与工程学院 ](https://mse.hust.edu.cn/info/1181/15213.htm)
+~~【报名截止：7.10】[机械科学与工程学院 ](https://mse.hust.edu.cn/info/1181/15213.htm)~~
 
 ~~【报名截止：7.4】[集成电路学院](https://ic.hust.edu.cn/info/1242/3460.htm)~~
 
@@ -870,6 +874,10 @@
 
 ~~【报名截止：6.25】[软件学院、大连理工大学-立命馆大学国际信息与软件学院](https://ss.dlut.edu.cn/info/1122/28802.htm)~~
 
+## 西安电子科技大学
+
+【报名截止：9.10】[​计算机科学与技术学院](https://cs.xidian.edu.cn/info/1003/16583.htm)
+
 ## 北京邮电大学
 
 【报名截止：7.31】[电子工程学院](https://see.bupt.edu.cn/info/1047/2741.htm)
@@ -946,7 +954,7 @@
 
 【报名截止：7.12】[现代邮政学院](https://mp.weixin.qq.com/s/Cwbwv0pk_egqYb3A2aD-Dg)
 
-【报名截止：7.10】[自动化学院、人工智能学院](https://coa.njupt.edu.cn/2024/0701/c2277a267160/page.htm)
+~~【报名截止：7.10】[自动化学院、人工智能学院](https://coa.njupt.edu.cn/2024/0701/c2277a267160/page.htm)~~
 
 ~~【报名截止：7.3】[理学院](https://lxy.njupt.edu.cn/2024/0621/c2182a266487/page.htm)~~
 
