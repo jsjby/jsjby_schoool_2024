@@ -660,7 +660,7 @@
 
 > [四川大学夏令营信息](https://yz.scu.edu.cn/zsxx/Details/077bf347-9320-487a-b4a8-69d30adb6ff7)
 
-【报名截止：7.11】[医学前沿科学中心](https://yjs.cd120.com/contents/412/4461.html)
+~~【报名截止：7.11】[医学前沿科学中心](https://yjs.cd120.com/contents/412/4461.html)~~
 
 ~~【报名截止：6.30】[华西基础医学与法医学院](https://jcfy.scu.edu.cn/info/1020/4826.htm)~~
 
@@ -762,7 +762,7 @@
 
 【报名截止：8.5】[空间应用工程与技术中心](https://mp.weixin.qq.com/s/4Fs6y3gtXhupCJsHqIVW1Q)
 
-【报名截止：7.11】[海洋研究所](http://www.qdio.ac.cn/yjs/yjsnotice/202407/t20240705_792195.html)
+~~【报名截止：7.11】[海洋研究所](http://www.qdio.ac.cn/yjs/yjsnotice/202407/t20240705_792195.html)~~
 
 ~~【报名截止：7.1】[微电子研究所](http://www.ime.cas.cn/kjrh/tzggkjrh/202405/t20240522_7168020.html)~~
 
@@ -875,6 +875,10 @@
 ~~【报名截止：6.25】[软件学院、大连理工大学-立命馆大学国际信息与软件学院](https://ss.dlut.edu.cn/info/1122/28802.htm)~~
 
 ## 西安电子科技大学
+
+ > [西安电子科技大学报名信息](https://gr.xidian.edu.cn/info/1074/13515.htm)
+
+【报名截止：9.10】[​人工智能学院](https://sai.xidian.edu.cn/info/1106/9371.htm)
 
 【报名截止：9.10】[​计算机科学与技术学院](https://cs.xidian.edu.cn/info/1003/16583.htm)
 
@@ -1018,7 +1022,11 @@
 
  ## 中国农业科学院
 
-【报名截止：7.11】[农业信息研究所](https://aii.caas.cn/yjspy/zsxx/e1b4de6b05a94ec4a556b0aed0665ac3.htm)
+~~【报名截止：7.11】[农业信息研究所](https://aii.caas.cn/yjspy/zsxx/e1b4de6b05a94ec4a556b0aed0665ac3.htm)~~
+
+ ## 中国电力科学研究院
+
+【报名截止：7.28】[中国电力科学研究院](https://mp.weixin.qq.com/s/BodvsTQ_CRzTGmUcEFboCA)
 
 ## 中南财经政法大学
 
