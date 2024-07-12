@@ -908,7 +908,7 @@
 
 ## 北京科技大学
 
-【报名截止：7.12】[计算机与通信工程学院](https://scce.ustb.edu.cn/xinwentongzhi/tongzhigonggao/2024-07-03/2086.html)
+~~【报名截止：7.12】[计算机与通信工程学院](https://scce.ustb.edu.cn/xinwentongzhi/tongzhigonggao/2024-07-03/2086.html)~~
 
 ## 杭州电子科技大学
 
@@ -956,7 +956,7 @@
 
 【报名截止：7.17】[通信与信息工程学院](http://scie.njupt.edu.cn/2024/0707/c2890a267588/page.htm)
 
-【报名截止：7.12】[现代邮政学院](https://mp.weixin.qq.com/s/Cwbwv0pk_egqYb3A2aD-Dg)
+~~【报名截止：7.12】[现代邮政学院](https://mp.weixin.qq.com/s/Cwbwv0pk_egqYb3A2aD-Dg)~~
 
 ~~【报名截止：7.10】[自动化学院、人工智能学院](https://coa.njupt.edu.cn/2024/0701/c2277a267160/page.htm)~~
 
@@ -1190,7 +1190,7 @@
 
 ## 西南交通大学
 
-【报名截止：7.12】[唐山研究院](https://mp.weixin.qq.com/s/p4UZhEv6JCrycew0yE4z2g)
+~~【报名截止：7.12】[唐山研究院](https://mp.weixin.qq.com/s/p4UZhEv6JCrycew0yE4z2g)~~
 
 ~~【报名截止：6.30】[计算机与人工智能学院](https://scai.swjtu.edu.cn/web/page-newsDetail.html?nid=76f84338-a868-45aa-ab25-086628078ecf)~~
 
