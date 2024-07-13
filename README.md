@@ -962,11 +962,15 @@
 
 ~~【报名截止：7.3】[理学院](https://lxy.njupt.edu.cn/2024/0621/c2182a266487/page.htm)~~
 
+## 南京信息工程大学
+
+【报名截止：7.15】[人工智能学院](https://mp.weixin.qq.com/s/056-_tIp7hk9y2kaA9jkjQ)
+
 ## 哈尔滨工程大学
 
 > [哈尔滨工程大学夏令营信息](https://yzb.hrbeu.edu.cn/2023/0619/c3262a326982/page.htm)
 
-【报名截止：7.13】[信息与通信工程学院](https://icec.hrbeu.edu.cn/2024/0703/c4658a327195/page.htm)
+~~【报名截止：7.13】[信息与通信工程学院](https://icec.hrbeu.edu.cn/2024/0703/c4658a327195/page.htm)~~
 
 ~~【报名截止：7.1】[计算机科学与技术学院](https://cstc.hrbeu.edu.cn/2024/0628/c3688a327105/page.htm)~~
 
