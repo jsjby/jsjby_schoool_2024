@@ -230,7 +230,7 @@
 
 ## 武汉大学
 
-【报名截止：7.14】[湖北国家应用数学中心](https://mp.weixin.qq.com/s/BlfXsxH977QmQ2wXR2FJCg)
+~~【报名截止：7.14】[湖北国家应用数学中心](https://mp.weixin.qq.com/s/BlfXsxH977QmQ2wXR2FJCg)~~
 
 ~~【报名截止：6.27】[水利水电学院](https://swrh.whu.edu.cn/info/1041/92171.htm)~~
 
@@ -480,7 +480,7 @@
 
 ## 鹏城实验室
 
-【报名截止：7.14】[鹏城实验室](https://yzw.pcl.ac.cn/yzs_new/zsxxxq/index?id=7ae364bdaed74eeaa02bee310faca034&xxlm=03)
+~~【报名截止：7.14】[鹏城实验室](https://yzw.pcl.ac.cn/yzs_new/zsxxxq/index?id=7ae364bdaed74eeaa02bee310faca034&xxlm=03)~~
 
 ## 中山大学
 
@@ -982,6 +982,10 @@
 
 ~~【报名截止：7.8】[信息科学技术学院](https://www.dlmu.edu.cn/info/1060/76078.htm)~~
 
+## 上海航天技术研究院
+
+> [上海航天技术研究院夏令营信息](https://mp.weixin.qq.com/s/K0x-kYDGYBzs2qbozfmiCw)
+
 ## 苏州大学
 
 【报名截止：9.11（前一周）】[计算机科学和技术学院（软件学院）](https://scst.suda.edu.cn/d4/c2/c29555a578754/page.htm)
@@ -1031,6 +1035,10 @@
  ## 中国电力科学研究院
 
 【报名截止：7.28】[中国电力科学研究院](https://mp.weixin.qq.com/s/BodvsTQ_CRzTGmUcEFboCA)
+
+ ## 中国林科院
+
+【报名截止：7.22】[资源信息研究所](https://mp.weixin.qq.com/s/_m2WZdWsYhObMXcit12lQw)
 
 ## 中南财经政法大学
 
@@ -1218,7 +1226,7 @@
 
 【报名截止：7.15】[光明实验室](https://mp.weixin.qq.com/s/P_-L3Zfi5s2UMsORAUMyvw)
 
-【报名截止：7.14】[大数据系统计算技术国家工程实验室](https://mp.weixin.qq.com/s/vl_Tt27hHRXbIYgzksFchg)
+~~【报名截止：7.14】[大数据系统计算技术国家工程实验室](https://mp.weixin.qq.com/s/vl_Tt27hHRXbIYgzksFchg)~~
 
 ~~【报名截止：7.8】[医学部生物医学工程学院](https://mp.weixin.qq.com/s/GI7xDwhwgkx7uc1KwwFkJg)~~
 
@@ -1338,7 +1346,7 @@
 
 ##  航天二院
 
-【报名截止：7.14】[航天二院](https://mp.weixin.qq.com/s/3KIvIBFdgNSv5yP5Pzp5dQ)
+~~【报名截止：7.14】[航天二院](https://mp.weixin.qq.com/s/3KIvIBFdgNSv5yP5Pzp5dQ)~~
 
 ##  中国铁道科学研究院
 
