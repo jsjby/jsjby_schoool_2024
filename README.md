@@ -586,7 +586,7 @@
 
 ## 华中科技大学
 
-【报名截止：7.15】[武汉光电国家研究中心](https://wnlo.hust.edu.cn/info/1178/12526.htm)
+~~【报名截止：7.15】[武汉光电国家研究中心](https://wnlo.hust.edu.cn/info/1178/12526.htm)~~
 
 ~~【报名截止：7.10】[机械科学与工程学院 ](https://mse.hust.edu.cn/info/1181/15213.htm)~~
 
@@ -836,7 +836,7 @@
 
 【报名截止：暂无】[人工智能学院](https://ai.ucas.ac.cn/index.php/zh-cn/tzgg/7313-2025)
 
-【报名截止：7.15】[空天信息创新研究院](https://mp.weixin.qq.com/s/BvGBijMhubCOETXM2fZuJA)
+~~【报名截止：7.15】[空天信息创新研究院](https://mp.weixin.qq.com/s/BvGBijMhubCOETXM2fZuJA)~~
 
 ~~【报名截止：7.1】[集成电路学院](https://sme.ucas.ac.cn/index.php/zh-cn/zsjy/sszs/512-2024-6)~~
 
@@ -964,7 +964,7 @@
 
 ## 南京信息工程大学
 
-【报名截止：7.15】[人工智能学院](https://mp.weixin.qq.com/s/056-_tIp7hk9y2kaA9jkjQ)
+~~【报名截止：7.15】[人工智能学院](https://mp.weixin.qq.com/s/056-_tIp7hk9y2kaA9jkjQ)~~
 
 ## 哈尔滨工程大学
 
@@ -1218,13 +1218,17 @@
 
 > [西北农林科技大学夏令营信息](https://yz.nwafu.edu.cn/tzgg/a0446bcb34254005b789339f79796145.htm)
 
+## 西安建筑科技大学
+
+【报名截止：8.1】[信息与控制工程学院](https://yzb.xauat.edu.cn/info/1020/6405.htm)
+
 ## 深圳技术大学
 
 ~~【报名截止：7.5】[健康与环境工程学院](https://mp.weixin.qq.com/s/5t_zUJmP7stMMNzAyRburw)~~
 
 ## 深圳大学
 
-【报名截止：7.15】[光明实验室](https://mp.weixin.qq.com/s/P_-L3Zfi5s2UMsORAUMyvw)
+~~【报名截止：7.15】[光明实验室](https://mp.weixin.qq.com/s/P_-L3Zfi5s2UMsORAUMyvw)~~
 
 ~~【报名截止：7.14】[大数据系统计算技术国家工程实验室](https://mp.weixin.qq.com/s/vl_Tt27hHRXbIYgzksFchg)~~
 
@@ -1310,7 +1314,7 @@
 
 ## 江苏大学
 
-【报名截止：7.15】[科技信息研究所](https://lib.ujs.edu.cn/info/1131/22178.htm)
+~~【报名截止：7.15】[科技信息研究所](https://lib.ujs.edu.cn/info/1131/22178.htm)~~
 
 ## 华中师范大学
 
@@ -1350,7 +1354,7 @@
 
 ##  中国铁道科学研究院
 
-【报名截止：7.15】[中国铁道科学研究院](https://mp.weixin.qq.com/s/GTIouQpgeAhnrhTFA4erxw)
+~~【报名截止：7.15】[中国铁道科学研究院](https://mp.weixin.qq.com/s/GTIouQpgeAhnrhTFA4erxw)~~
 
 ##  中国民用航空飞行学院
 
