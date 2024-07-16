@@ -992,7 +992,7 @@
 
 【报名截止：7.20】[未来科学与工程学院](https://mp.weixin.qq.com/s/QCPPs6NOlo9IUon4IJA__w)
 
-【报名截止：7.16】[电子信息学院](https://dzxx.suda.edu.cn/d2/09/c8244a578057/page.htm)
+~~【报名截止：7.16】[电子信息学院](https://dzxx.suda.edu.cn/d2/09/c8244a578057/page.htm)~~
 
  ## 中国传媒大学
 
