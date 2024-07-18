@@ -1008,7 +1008,7 @@
 
 > [中国矿业大学夏令营信息](https://yz.cumt.edu.cn/info/1004/2106.htm)
 
- 【报名截止：7.18】[矿物加工工程系（北京）](https://scee.cumtb.edu.cn/info/1083/3581.htm)
+ ~~【报名截止：7.18】[矿物加工工程系（北京）](https://scee.cumtb.edu.cn/info/1083/3581.htm)~~
 
  ~~【报名截止：7.3】[应急管理与安全工程学院（北京）](https://aqxy.cumtb.edu.cn/info/1167/5353.htm)~~
 
