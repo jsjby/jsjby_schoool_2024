@@ -760,6 +760,8 @@
 
 【报名截止：9.28】[国家空间科学中心](http://www.nssc.cas.cn/yjsb/zsxx/zsdt/202407/t20240705_7213268.html)
 
+【报名截止：8.12】[沈阳自动化研究所](http://www.sia.cas.cn/zpjy/yjsjy/zs/zsgg/202407/t20240719_7231672.html)
+
 【报名截止：8.5】[空间应用工程与技术中心](https://mp.weixin.qq.com/s/4Fs6y3gtXhupCJsHqIVW1Q)
 
 ~~【报名截止：7.11】[海洋研究所](http://www.qdio.ac.cn/yjs/yjsnotice/202407/t20240705_792195.html)~~
@@ -914,6 +916,8 @@
 
 【报名截止：N/A】[网络空间安全学院](https://cbs.hdu.edu.cn/2024/0620/c2594a266529/page.htm)
 
+【报名截止：7.28】[通信工程学院](https://comm.hdu.edu.cn/2024/0719/c2746a267619/page.htm)
+
 【报名截止：7.20】[管理学院](https://management.hdu.edu.cn/2024/0705/c965a267099/page.htm)
 
  ## 南京航空航天大学
@@ -952,7 +956,7 @@
 
 【报名截止：7.31】[计算机学院、软件学院、网络空间安全学院](https://cs.njupt.edu.cn/2024/0705/c16083a267466/page.htm)
 
-【报名截止：7.19】[物联网学院](https://ciot.njupt.edu.cn/2024/0709/c10653a267656/page.htm)
+~~【报名截止：7.19】[物联网学院](https://ciot.njupt.edu.cn/2024/0709/c10653a267656/page.htm)~~
 
 ~~【报名截止：7.17】[通信与信息工程学院](http://scie.njupt.edu.cn/2024/0707/c2890a267588/page.htm)~~
 
@@ -1180,6 +1184,10 @@
 
 > [合肥工业大学夏令营信息](https://yjszs.hfut.edu.cn/2024/0612/c13526a304692/page.htm)
 
+## 山东第一医科大学
+
+【报名截止：8.11】[人工智能与大数据学院](https://mp.weixin.qq.com/s/7Tufn7FP-jjpB2jbS--LyA)
+
 ## 东华大学
 
 > [东华大学夏令营信息](https://mp.weixin.qq.com/s/AcrmpIgylBIIvtRHR6iBGA)
@@ -1207,6 +1215,10 @@
 ~~【报名截止：6.30】[计算机与人工智能学院](https://scai.swjtu.edu.cn/web/page-newsDetail.html?nid=76f84338-a868-45aa-ab25-086628078ecf)~~
 
 ~~【报名截止：6.25】[环境科学与工程学院](http://yz.swjtu.edu.cn/vatuu/PublicActivityAction?setAction=activityDetail&activityId=B4F513430B5EBC91)~~
+
+## 西北大学
+
+【报名截止：9.20】[西北大学](https://mp.weixin.qq.com/s/oUzGyOcaM_pS6kz8NXuiUw)
 
 ## 西南大学
 
