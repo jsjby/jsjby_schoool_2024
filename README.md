@@ -910,6 +910,8 @@
 
 ## 北京科技大学
 
+> [北京科技大学预推免信息](https://gs.bjtu.edu.cn/cms/zszt/item/3011.html)
+
 ~~【报名截止：7.12】[计算机与通信工程学院](https://scce.ustb.edu.cn/xinwentongzhi/tongzhigonggao/2024-07-03/2086.html)~~
 
 ## 杭州电子科技大学
@@ -918,7 +920,7 @@
 
 【报名截止：7.28】[通信工程学院](https://comm.hdu.edu.cn/2024/0719/c2746a267619/page.htm)
 
-【报名截止：7.20】[管理学院](https://management.hdu.edu.cn/2024/0705/c965a267099/page.htm)
+~~【报名截止：7.20】[管理学院](https://management.hdu.edu.cn/2024/0705/c965a267099/page.htm)~~
 
  ## 南京航空航天大学
 
@@ -946,7 +948,7 @@
 
 > [南京理工大学夏令营消息](https://gs.njust.edu.cn/zsw/20/f0/c4587a336112/page.htm)
 
-【报名截止：7.20】[智能计算成像实验室](https://scilaboratory.com/h-nd-655.html)
+~~【报名截止：7.20】[智能计算成像实验室](https://scilaboratory.com/h-nd-655.html)~~
 
 ~~【报名截止：7.2】[网络空间安全学院](https://mp.weixin.qq.com/s/MAAb5REsBRIUQcjkUrdpJg)~~
 
@@ -994,7 +996,7 @@
 
 【报名截止：9.11（前一周）】[计算机科学和技术学院（软件学院）](https://scst.suda.edu.cn/d4/c2/c29555a578754/page.htm)
 
-【报名截止：7.20】[未来科学与工程学院](https://mp.weixin.qq.com/s/QCPPs6NOlo9IUon4IJA__w)
+~~【报名截止：7.20】[未来科学与工程学院](https://mp.weixin.qq.com/s/QCPPs6NOlo9IUon4IJA__w)~~
 
 ~~【报名截止：7.16】[电子信息学院](https://dzxx.suda.edu.cn/d2/09/c8244a578057/page.htm)~~
 
