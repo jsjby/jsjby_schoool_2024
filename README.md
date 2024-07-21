@@ -1282,6 +1282,8 @@
 
 ## 南京农业大学
 
+> [南京农业大学预推免](https://zsgz.njau.edu.cn/info/1007/1571.htm)
+
 ~~【报名截止：7.1】[人工智能学院](https://ai.njau.edu.cn/info/1009/3502.htm)~~
 
 ## 南京师范大学
