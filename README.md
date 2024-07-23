@@ -1048,7 +1048,7 @@
 
  ## 中国林科院
 
-【报名截止：7.22】[资源信息研究所](https://mp.weixin.qq.com/s/_m2WZdWsYhObMXcit12lQw)
+~~【报名截止：7.22】[资源信息研究所](https://mp.weixin.qq.com/s/_m2WZdWsYhObMXcit12lQw)~~
 
 ## 中南财经政法大学
 
