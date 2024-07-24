@@ -344,6 +344,8 @@
 
 ## 北京师范大学
 
+【报名截止：8.11】[人工智能学院（第二轮）](https://ai.bnu.edu.cn/ggjxz/tzgg/272ed4fa3c314ff287da4425cf5a8f4e.htm)
+
 ~~【报名截止：7.9】[人工智能学院](https://mp.weixin.qq.com/s/Z02xlYAM-CYAud4zunRdBw)~~
 
 ~~【报名截止：6.28】[政府管理学院信息资源管理学科](http://www.sg.bnu.edu.cn/tzgg_sy/774897ed576a421998033463a39456fa.htm)~~
@@ -760,6 +762,8 @@
 
 【报名截止：暂无】[微小卫星创新研究院](https://mp.weixin.qq.com/s/up6icXQZgv_NV1Yzr_Rlqg)
 
+【报名截止：暂无】[沈阳计算技术研究所](http://yjs.sict.ac.cn/index.php?m=content&c=index&a=show&catid=15&id=143)
+
 【报名截止：10.18】[新疆理化技术研究所](http://www.xjipc.cas.cn/yjs/zs/sszs/202406/t20240604_7184062.html)
 
 【报名截止：9.28】[国家空间科学中心](http://www.nssc.cas.cn/yjsb/zsxx/zsdt/202407/t20240705_7213268.html)
@@ -767,6 +771,8 @@
 【报名截止：8.12】[沈阳自动化研究所](http://www.sia.cas.cn/zpjy/yjsjy/zs/zsgg/202407/t20240719_7231672.html)
 
 【报名截止：8.5】[空间应用工程与技术中心](https://mp.weixin.qq.com/s/4Fs6y3gtXhupCJsHqIVW1Q)
+
+【报名截止：7.28】[计算技术研究所](http://www.ict.ac.cn/xwgg/tzgg/202407/t20240722_7232718.html)
 
 ~~【报名截止：7.11】[海洋研究所](http://www.qdio.ac.cn/yjs/yjsnotice/202407/t20240705_792195.html)~~
 
@@ -952,6 +958,8 @@
 
 > [南京理工大学夏令营消息](https://gs.njust.edu.cn/zsw/20/f0/c4587a336112/page.htm)
 
+【报名截止：N/A】[计算机学院](https://mp.weixin.qq.com/s/WBivCx8Wi58SgpS2LFvuTA)
+
 ~~【报名截止：7.20】[智能计算成像实验室](https://scilaboratory.com/h-nd-655.html)~~
 
 ~~【报名截止：7.2】[网络空间安全学院](https://mp.weixin.qq.com/s/MAAb5REsBRIUQcjkUrdpJg)~~
@@ -997,6 +1005,8 @@
 > [上海航天技术研究院夏令营信息](https://mp.weixin.qq.com/s/K0x-kYDGYBzs2qbozfmiCw)
 
 ## 苏州大学
+
+> [苏州大学预推免信息](https://yjs.suda.edu.cn/e6/4b/c8386a583243/page.htm)
 
 【报名截止：9.11（前一周）】[计算机科学和技术学院（软件学院）](https://scst.suda.edu.cn/d4/c2/c29555a578754/page.htm)
 
@@ -1067,6 +1077,8 @@
 > [湖南师范大学预推免信息](https://yjsy.hunnu.edu.cn/info/1027/15163.htm)
 
 ## 上海科技大学
+
+【报名截止：9.20】[生命学院](https://slst.shanghaitech.edu.cn/2024/0722/c319a1099384/page.htm)
 
 ~~【报名截止：6.30】[临港实验室](https://www.lglab.ac.cn/sylbt/202404/t20240425_212225.html)~~
 
@@ -1223,6 +1235,8 @@
 ~~【报名截止：6.25】[环境科学与工程学院](http://yz.swjtu.edu.cn/vatuu/PublicActivityAction?setAction=activityDetail&activityId=B4F513430B5EBC91)~~
 
 ## 西北大学
+
+> [西北大学预推免信息](https://yjs.nwu.edu.cn/info/1104/4676.htm)
 
 【报名截止：9.20】[西北大学](https://mp.weixin.qq.com/s/oUzGyOcaM_pS6kz8NXuiUw)
 
