@@ -112,7 +112,7 @@
 
 【报名截止：8.25】[密西根学院](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-07-19/146793/)
 
-【报名截止：7.25】[密西根学院](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-07-19/146793/)
+~~【报名截止：7.25】[密西根学院](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-07-19/146793/)~~
 
 ~~【报名截止：6.21】[航空航天学院](https://www.aero.sjtu.edu.cn/Data/View/6195)~~
 
@@ -188,7 +188,7 @@
 
 【报名截止：暂无】[医学中心](https://mp.weixin.qq.com/s/WRHbLv5E39W54gYwWT4-TA)
 
-【报名截止：7.25】[控制学院](http://www.cse.zju.edu.cn/2024/0628/c39333a2940529/page.htm)
+~~【报名截止：7.25】[控制学院](http://www.cse.zju.edu.cn/2024/0628/c39333a2940529/page.htm)~~
 
 ~~【报名截止：7.10】[工程师学院](https://pi.zju.edu.cn/2024/0620/c67026a2937382/page.htm)~~
 
@@ -219,6 +219,8 @@
 ~~【报名截止：6.3】[脑科学与脑医学学院](http://www.neuroscience.zju.edu.cn/2024/0416/c75666a2902185/page.htm)~~
 
 ## 国防科技大学
+
+> [国防科技大学预推免信息](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13804)
 
 ~~【报名截止：7.5】[电子科学学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13805)~~
 
@@ -293,6 +295,8 @@
 > [天津大学夏令营信息](https://yzb.tju.edu.cn/xwzx/zxxx/202406/t20240605_323809.htm)
 
 > [天津大学预推免信息](http://yzb.tju.edu.cn/xwzx/zxxx/202407/t20240706_323840.htm)
+
+【报名截止：9.15】[佐治亚理工深圳学院](https://mp.weixin.qq.com/s/GRJqGWLVIp_jkSW--dh7jg)
 
 【报名截止：9.14】[医学院](https://mctu.tju.edu.cn/info/1061/3511.htm)
 
@@ -1401,6 +1405,10 @@
 ##  海军工程大学
 
 ~~【报名截止：7.2】[海军工程大学](https://mp.weixin.qq.com/s/SOmT4SSPJQATn3O8pbTMkA)~~
+
+##  中国人民解放军空军工程大学
+
+【报名截止：8.8】[空军工程大学](https://www.afeu.cn:1001/notice-announcement/462/)
 
 ##  对外经济贸易大学
 
