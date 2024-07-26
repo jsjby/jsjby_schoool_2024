@@ -376,6 +376,8 @@
 
 【报名截止：8.8】[苏州研究院](https://mp.weixin.qq.com/s/KrlnlCTs1r6MiilSC-5sTA)
 
+【报名截止：8.6】[郑州研究院](https://zri.hit.edu.cn/2024/0726/c17214a349299/page.htm)
+
 ~~【报名截止：7.7】[卓越工程师学院](https://ees.hit.edu.cn/2024/0704/c15565a348268/page.htm)~~
 
 ~~【报名截止：6.26】[重庆研究院](https://cri.hit.edu.cn/2024/0607/c15728a346329/pagem.htm)~~
@@ -718,13 +720,13 @@
 
 ## 兰州大学
 
+> [兰州大学预推免信息](https://mp.weixin.qq.com/s/mJDzb8C-UimoBANGzW81gQ)
+
 ~~【报名截止：6.20】[信息科学与工程学院](https://xxxy.lzu.edu.cn/tongzhigonggao/2024/0529/270494.html)~~
 
 ## 中国科学技术大学
 
 > [中国科学技术大学夏令营信息](https://xly.ustc.edu.cn/news.php?newsid=981)
-
-> [中国科学技术大学 “优秀大学生夏令营”活动通知](https://xly.ustc.edu.cn/news.php?newsid=981)
 
 【报名截止：N/A】[量子物理和量子信息研究团队保研招生简章](https://quantum.ustc.edu.cn/web/index.php/node/762)
 
@@ -1401,6 +1403,8 @@
 ~~【报名截止：7.5】[空管学院](https://mp.weixin.qq.com/s/CSepERhxvXlUEfkubSz4_A)~~
 
 ##  中国人民解放军军事科学院
+
+【报名截止：8.7】[中国人民解放军军事科学院](https://mp.weixin.qq.com/s/t7kIUoykhrrxnJRMi2g9Tw)
 
 ~~【报名截止：7.5】[中国人民解放军军事科学院](https://mp.weixin.qq.com/s/iDBPucqozYMYyny0MfjJuA)~~
 
