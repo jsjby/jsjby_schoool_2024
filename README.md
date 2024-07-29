@@ -374,6 +374,8 @@
 
 > [哈尔滨工业大学夏令营消息](http://yzb.hit.edu.cn/2024/0506/c8824a343961/page.htm) | [哈尔滨工业大学（威海）暑期夏令营信息](https://today.hitwh.edu.cn/2024/0507/c1024a182481/page.htm) | [哈尔滨工业大学（深圳）夏令营信息](https://yzb.hitsz.edu.cn/yzs_common/zsxxxq/index?id=a684dc6879a84bef879effe772d8c2c5&xxlm=04)
 
+> [哈尔滨工业大学预推免消息](http://yzb.hit.edu.cn/2024/0727/c8822a349360/page.htm) 
+
 【报名截止：8.8】[苏州研究院](https://mp.weixin.qq.com/s/KrlnlCTs1r6MiilSC-5sTA)
 
 【报名截止：8.6】[郑州研究院](https://zri.hit.edu.cn/2024/0726/c17214a349299/page.htm)
@@ -782,7 +784,7 @@
 
 【报名截止：8.5】[空间应用工程与技术中心](https://mp.weixin.qq.com/s/4Fs6y3gtXhupCJsHqIVW1Q)
 
-【报名截止：7.28】[计算技术研究所](http://www.ict.ac.cn/xwgg/tzgg/202407/t20240722_7232718.html)
+~~【报名截止：7.28】[计算技术研究所](http://www.ict.ac.cn/xwgg/tzgg/202407/t20240722_7232718.html)~~
 
 ~~【报名截止：7.11】[海洋研究所](http://www.qdio.ac.cn/yjs/yjsnotice/202407/t20240705_792195.html)~~
 
@@ -900,6 +902,8 @@
 
  > [西安电子科技大学报名信息](https://gr.xidian.edu.cn/info/1074/13515.htm)
 
+【报名截止：9.25】[​网络与信息安全学院](https://ce.xidian.edu.cn/info/1324/9854.htm)
+
 【报名截止：9.10】[​人工智能学院](https://sai.xidian.edu.cn/info/1106/9371.htm)
 
 【报名截止：9.10】[​计算机科学与技术学院](https://cs.xidian.edu.cn/info/1003/16583.htm)
@@ -942,7 +946,7 @@
 
 【报名截止：N/A】[网络空间安全学院](https://cbs.hdu.edu.cn/2024/0620/c2594a266529/page.htm)
 
-【报名截止：7.28】[通信工程学院](https://comm.hdu.edu.cn/2024/0719/c2746a267619/page.htm)
+~~【报名截止：7.28】[通信工程学院](https://comm.hdu.edu.cn/2024/0719/c2746a267619/page.htm)~~
 
 ~~【报名截止：7.20】[管理学院](https://management.hdu.edu.cn/2024/0705/c965a267099/page.htm)~~
 
@@ -1068,7 +1072,7 @@
 
  ## 中国电力科学研究院
 
-【报名截止：7.28】[中国电力科学研究院](https://mp.weixin.qq.com/s/BodvsTQ_CRzTGmUcEFboCA)
+~~【报名截止：7.28】[中国电力科学研究院](https://mp.weixin.qq.com/s/BodvsTQ_CRzTGmUcEFboCA)~~
 
  ## 中国林科院
 
@@ -1421,6 +1425,10 @@
 ##  中国人民解放军空军工程大学
 
 【报名截止：8.8】[空军工程大学](https://www.afeu.cn:1001/notice-announcement/462/)
+
+##  中国人民解放军海军工程大学
+
+【报名截止：8.7】[海军工程大学](https://mp.weixin.qq.com/s/5ta-zmIJifMMTLR4eMNtqg)
 
 ##  对外经济贸易大学
 
