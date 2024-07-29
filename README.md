@@ -380,6 +380,8 @@
 
 【报名截止：8.6】[郑州研究院](https://zri.hit.edu.cn/2024/0726/c17214a349299/page.htm)
 
+【报名截止：8.5】[计算学部](https://computing.hit.edu.cn/2024/0729/c11271a349512/page.htm)
+
 ~~【报名截止：7.7】[卓越工程师学院](https://ees.hit.edu.cn/2024/0704/c15565a348268/page.htm)~~
 
 ~~【报名截止：6.26】[重庆研究院](https://cri.hit.edu.cn/2024/0607/c15728a346329/pagem.htm)~~
