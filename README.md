@@ -2,6 +2,8 @@
 
 # [2024年计算机保研招生通知(截止日期版本)](https://github.com/jsjby/jsjby_schoool_2024)
 
+# [2024年计算机保研预推免通知](https://github.com/jsjby/ytm_2024)
+
 :bangbang: **需要带保研或计算机保研资料联系（咨询计算机保研）:** &nbsp; 联系微信：Jsjby-02 <br />
 
 ## 清华大学
