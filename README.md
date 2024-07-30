@@ -150,7 +150,7 @@
 
 > [南京大学夏令营信息](https://grawww.nju.edu.cn/64/88/c905a681096/page.htm)
 
-【报名截止：7.15】[匡亚明学院](https://dii.nju.edu.cn/89/f5/c11317a690677/page.htm)
+~~【报名截止：7.15】[匡亚明学院](https://dii.nju.edu.cn/89/f5/c11317a690677/page.htm)~~
 
 ~~【报名截止：6.23】[现代生物研究院](https://imb.nju.edu.cn/yjyxw/20240531/i267706.html)~~
 
@@ -270,7 +270,7 @@
 
 ## 东南大学
 
-> [东南大学夏令营信息](https://yzb.seu.edu.cn/2024/0613/c6676a493845/pagem.htm)
+> [东南大学招生信息](https://yzb.seu.edu.cn/2024/0613/c6676a493845/pagem.htm)
 
 【报名截止：N/A】[PALM实验室](https://palm.seu.edu.cn/application.html)
 
@@ -1336,7 +1336,7 @@
 
 ## 浙江农林大学
 
-【报名截止：7.30】[数学与计算机科学学院](https://yjszs.zafu.edu.cn/info/1022/2514.htm)
+~~【报名截止：7.30】[数学与计算机科学学院](https://yjszs.zafu.edu.cn/info/1022/2514.htm)~~
 
 ## 浙江工业大学
 
