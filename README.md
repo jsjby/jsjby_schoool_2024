@@ -278,11 +278,11 @@
 
 【报名截止：8.11】[电子科学与工程学院](https://electronic.seu.edu.cn/2024/0625/c11479a495398/pagem.htm)
 
-【报名截止：8.8】[息科学与工程学院](https://radio.seu.edu.cn/2024/0630/c19195a496042/pagem.htm)
+【报名截止：8.8】[信息科学与工程学院](https://radio.seu.edu.cn/2024/0630/c19195a496042/pagem.htm)
 
-【报名截止：8.5】[网络空间安全学院](https://cyber.seu.edu.cn/2024/0627/c18223a495771/page.htm)
+~~【报名截止：8.5】[网络空间安全学院](https://cyber.seu.edu.cn/2024/0627/c18223a495771/page.htm)~~
 
-【报名截止：8.3】[生物科学与医学工程学院](https://bme.seu.edu.cn/2024/0702/c480a496237/page.htm)
+~~【报名截止：8.3】[生物科学与医学工程学院](https://bme.seu.edu.cn/2024/0702/c480a496237/page.htm)~~
 
 ~~【报名截止：8.1】[计算机科学与工程学院、软件学院](https://cse.seu.edu.cn/2024/0629/c22646a495911/page.htm)~~
 
@@ -381,8 +381,6 @@
 【报名截止：8.8】[苏州研究院](https://mp.weixin.qq.com/s/KrlnlCTs1r6MiilSC-5sTA)
 
 【报名截止：8.6】[郑州研究院](https://zri.hit.edu.cn/2024/0726/c17214a349299/page.htm)
-
-【报名截止：8.5】[计算学部](https://computing.hit.edu.cn/2024/0729/c11271a349512/page.htm)
 
 ~~【报名截止：7.7】[卓越工程师学院](https://ees.hit.edu.cn/2024/0704/c15565a348268/page.htm)~~
 
@@ -786,7 +784,7 @@
 
 【报名截止：8.12】[沈阳自动化研究所](http://www.sia.cas.cn/zpjy/yjsjy/zs/zsgg/202407/t20240719_7231672.html)
 
-【报名截止：8.5】[空间应用工程与技术中心](https://mp.weixin.qq.com/s/4Fs6y3gtXhupCJsHqIVW1Q)
+~~【报名截止：8.5】[空间应用工程与技术中心](https://mp.weixin.qq.com/s/4Fs6y3gtXhupCJsHqIVW1Q)~~
 
 ~~【报名截止：7.28】[计算技术研究所](http://www.ict.ac.cn/xwgg/tzgg/202407/t20240722_7232718.html)~~
 
