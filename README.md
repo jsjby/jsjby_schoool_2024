@@ -1416,7 +1416,7 @@
 
 ##  中国人民解放军军事科学院
 
-【报名截止：8.7】[中国人民解放军军事科学院](https://mp.weixin.qq.com/s/t7kIUoykhrrxnJRMi2g9Tw)
+~~【报名截止：8.7】[中国人民解放军军事科学院](https://mp.weixin.qq.com/s/t7kIUoykhrrxnJRMi2g9Tw)~~
 
 ~~【报名截止：7.5】[中国人民解放军军事科学院](https://mp.weixin.qq.com/s/iDBPucqozYMYyny0MfjJuA)~~
 
@@ -1430,7 +1430,7 @@
 
 ##  中国人民解放军海军工程大学
 
-【报名截止：8.7】[海军工程大学](https://mp.weixin.qq.com/s/5ta-zmIJifMMTLR4eMNtqg)
+~~【报名截止：8.7】[海军工程大学](https://mp.weixin.qq.com/s/5ta-zmIJifMMTLR4eMNtqg)~~
 
 ##  对外经济贸易大学
 
