@@ -276,7 +276,7 @@
 
 【报名截止：8.15】[集成电路学院](https://ic.seu.edu.cn/2024/0704/c47777a496503/page.htm)
 
-【报名截止：8.11】[电子科学与工程学院](https://electronic.seu.edu.cn/2024/0625/c11479a495398/pagem.htm)
+~~【报名截止：8.11】[电子科学与工程学院](https://electronic.seu.edu.cn/2024/0625/c11479a495398/pagem.htm)~~
 
 ~~【报名截止：8.8】[信息科学与工程学院](https://radio.seu.edu.cn/2024/0630/c19195a496042/pagem.htm)~~
 
@@ -350,7 +350,7 @@
 
 ## 北京师范大学
 
-【报名截止：8.11】[人工智能学院（第二轮）](https://ai.bnu.edu.cn/ggjxz/tzgg/272ed4fa3c314ff287da4425cf5a8f4e.htm)
+~~【报名截止：8.11】[人工智能学院（第二轮）](https://ai.bnu.edu.cn/ggjxz/tzgg/272ed4fa3c314ff287da4425cf5a8f4e.htm)~~
 
 ~~【报名截止：7.9】[人工智能学院](https://mp.weixin.qq.com/s/Z02xlYAM-CYAud4zunRdBw)~~
 
@@ -1224,7 +1224,7 @@
 
 ## 山东第一医科大学
 
-【报名截止：8.11】[人工智能与大数据学院](https://mp.weixin.qq.com/s/7Tufn7FP-jjpB2jbS--LyA)
+~~【报名截止：8.11】[人工智能与大数据学院](https://mp.weixin.qq.com/s/7Tufn7FP-jjpB2jbS--LyA)~~
 
 ## 东华大学
 
@@ -1426,7 +1426,7 @@
 
 ##  中国人民解放军空军工程大学
 
-【报名截止：8.8】[空军工程大学](https://www.afeu.cn:1001/notice-announcement/462/)
+~~【报名截止：8.8】[空军工程大学](https://www.afeu.cn:1001/notice-announcement/462/)~~
 
 ##  中国人民解放军海军工程大学
 
