@@ -274,7 +274,7 @@
 
 【报名截止：N/A】[PALM实验室](https://palm.seu.edu.cn/application.html)
 
-【报名截止：8.15】[集成电路学院](https://ic.seu.edu.cn/2024/0704/c47777a496503/page.htm)
+~~【报名截止：8.15】[集成电路学院](https://ic.seu.edu.cn/2024/0704/c47777a496503/page.htm)~~
 
 ~~【报名截止：8.11】[电子科学与工程学院](https://electronic.seu.edu.cn/2024/0625/c11479a495398/pagem.htm)~~
 
