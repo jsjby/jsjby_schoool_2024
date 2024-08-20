@@ -678,7 +678,7 @@
 
 > [四川大学夏令营信息](https://yz.scu.edu.cn/zsxx/Details/077bf347-9320-487a-b4a8-69d30adb6ff7)
 
-~~【报名截止：7.11】[医学前沿科学中心](https://yjs.cd120.com/contents/412/4461.html)~~
+~~【报名截止：7.1】[医学前沿科学中心](https://yjs.cd120.com/contents/412/4461.html)~~
 
 ~~【报名截止：6.30】[华西基础医学与法医学院](https://jcfy.scu.edu.cn/info/1020/4826.htm)~~
 
