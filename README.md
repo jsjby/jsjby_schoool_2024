@@ -56,7 +56,7 @@
 
 ~~【报名截止：5.22】[网络研究院](https://www.insc.tsinghua.edu.cn/info/1179/3690.htm)~~
 
-~~【报名截止：5.22】 [计算机科学与技术系](https://mp.weixin.qq.com/s?srcid=0511ncUrMWk3NECs7sd5Cxjq&scene=23&sharer_shareinfo=074a53894defe7481e7b974878983d4c&mid=2247498995&sn=0adda03af3b249bef69c302478d6029b&idx=1&sharer_shareinfo_first=57401cb083ee681836005640a2214754&__biz=MzUyNTI4MzEzMg%3D%3D&chksm=fa22c6a0cd554fb6a3a761d4663d64141028eb8ad1cf12d50002604cf8b089ca03789e712111&mpshare=1#rd)~~
+~~【报名截止：5.22】 [计算机科学与技术系](https://www.cs.tsinghua.edu.cn/info/1087/6095.htm)~~
 
 ~~【报名截止：5.15 23:59】 [人工智能学院](https://admission.iiis.tsinghua.edu.cn/index-ai.php)~~
 
