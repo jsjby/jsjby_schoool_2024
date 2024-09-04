@@ -12,7 +12,7 @@
 
 【报名截止：N/A】 [智能产业研究院](https://mp.weixin.qq.com/s/sHhcErP2b-aKcBNsRHugWg)
 
-【报名截止：9.1】[高等研究院](https://www.ias.tsinghua.edu.cn/zsxx.htm)
+~~【报名截止：9.1】[高等研究院](https://www.ias.tsinghua.edu.cn/zsxx.htm)~~
 
 > 清华大学高等研究院只招收直博生，包含物理学(含天体物理）、网络空间安全、计算机科学与技术三个专业。
 
@@ -112,7 +112,7 @@
 
 【报名截止：N/A】[人工智能与微结构实验室](https://mp.weixin.qq.com/s/X9LZhlXfM1L2aOIoys3sNQ)
 
-【报名截止：8.25】[密西根学院](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-07-19/146793/)
+~~【报名截止：8.25】[密西根学院](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-07-19/146793/)~~
 
 ~~【报名截止：7.25】[密西根学院](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-07-19/146793/)~~
 
@@ -302,7 +302,7 @@
 
 【报名截止：9.14】[医学院](https://mctu.tju.edu.cn/info/1061/3511.htm)
 
-【报名截止：8.20】[智能计算学部导师团](https://cic.tju.edu.cn/info/1041/4999.htm)
+~~【报名截止：8.20】[智能计算学部导师团](https://cic.tju.edu.cn/info/1041/4999.htm)~~
 
 ~~【报名截止：6.26】[中国五矿校企联合培养专项](https://tjusee.tju.edu.cn/info/1126/3192.htm)~~
 
@@ -780,7 +780,7 @@
 
 【报名截止：9.28】[国家空间科学中心](http://www.nssc.cas.cn/yjsb/zsxx/zsdt/202407/t20240705_7213268.html)
 
-【报名截止：8.23】[分子细胞科学卓越创新中心](http://www.sibcb.ac.cn/edu/news1.jsp?ID=1205)
+~~【报名截止：8.23】[分子细胞科学卓越创新中心](http://www.sibcb.ac.cn/edu/news1.jsp?ID=1205)~~
 
 ~~【报名截止：8.12】[沈阳自动化研究所](http://www.sia.cas.cn/zpjy/yjsjy/zs/zsgg/202407/t20240719_7231672.html)~~
 
